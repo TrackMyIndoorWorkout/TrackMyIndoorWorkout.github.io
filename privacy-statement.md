@@ -11,8 +11,8 @@ redirect_from:
 <div class="section">
     <div class="row">
         <div class="col s12">
-            Your privacy is important to Virtual Velodrome Rider and it's creator:
-            Csaba Toth. This privacy policy provides information about
+            Your privacy is important to Track My Indoor Workout and it's creator:
+            Csaba Consulting. This privacy policy provides information about
             the personal information the application may collect or pass along, and the
             ways in which the related services use that personal information.
         </div>
@@ -26,7 +26,7 @@ redirect_from:
 
     <div class="row">
         <div class="col s12">
-            The application may collect workout information for analysis and possible worjout backup.
+            The application may collect workout information for analysis and possible workout backup.
         </div>
     </div>
 </div>
@@ -75,7 +75,7 @@ redirect_from:
 
     <div class="row">
         <div class="col s12">
-            The creator is not responsible for any damage or loss whatsoever caused by the app. The app doesn't have any guarantee about connecting to the bike, recording, and uploading workouts. The Android ecosystem can be complex, and even simple things like not turning off battery optimization for the app or if it's background could cause problems. The bluetooth eco-system can be problematic as well.
+            The creator is not responsible for any damage or loss whatsoever caused by the app. The app doesn't have any guarantee about connecting to the bike or treadmill, recording, and uploading workouts. The Android ecosystem can be complex, and even simple things like not turning off battery optimization for the app or if it's background could cause problems. The bluetooth eco-system can be problematic as well.
         </div>
     </div>
 </div>
@@ -87,7 +87,7 @@ redirect_from:
 
     <div class="row">
         <div class="col s12">
-             If you have any questions about this privacy policy or Virtual Velodrome Rider's treatment of your personal
+             If you have any questions about this privacy policy or Track My Indoor Workout's treatment of your personal
              information, please contact through <a href="https://csaba.page/">Author's website</a>
         </div>
     </div>
@@ -103,7 +103,7 @@ redirect_from:
             This document was created using a Contractology template available at <a href="http://www.freenetlaw.com/">http://www.freenetlaw.com</a>.
             Csaba Consulting customized that template to reflect the particular application instead of a website,
             and transformed it into HTML5/markdown format. The modified source is available on 
-            <a href="https://github.com/VirtualVelodromeRider/VirtualVelodromeRider.github.io/blob/master/privacy-statement.md">GitHub</a>
+            <a href="https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout.github.io/blob/master/privacy-statement.md">GitHub</a>
         </div>
     </div>
 </div>

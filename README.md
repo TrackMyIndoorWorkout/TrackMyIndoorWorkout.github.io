@@ -1,2 +1,2 @@
-# VirtualVelodromeRider.github.io
-Website for the Virtual Velodrome Rider application
+# TrackMyIndoorWorkout.github.io
+Website for the Track My Indoor Workout application

@@ -3,7 +3,7 @@ layout: post
 title: Schwinn AC Performance Plus Support
 date: 2020-09-23 12:00:00
 ---
-The console of the Schwinn AC Performance Plus bike is an MPower Echelon2 console. It doesn't support bluetooth protocols but only ANT+. Therefore your tablet or phone cannot directly connect to it. Therefore my application cannot directly measure the workouts. Please follow these steps to record your workouts and import them into the app later:
+The console of the Schwinn AC Performance Plus bike is an [MPower Echelon2 console](https://www.amazon.com/Schwinn-MPower-Echelon2-Console-Upgrade/dp/B074TK4NQ2). It doesn't support bluetooth protocols but only ANT+. Therefore your tablet or phone cannot directly connect to it. Therefore my application cannot directly measure the workouts. Please follow these steps to record your workouts and import them into the app later:
 
 0. Obtain a USB thumb drive and make sure it's formatted to the FAT32 file system (99% of the time that's the case).
 1. [Watch this video about how you can save your workout onto the pen drive](https://www.youtube.com/watch?v=ENkHdcV_E70)

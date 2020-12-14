@@ -3,9 +3,9 @@ layout: post
 title: Schwinn AC Performance Plus Support
 date: 2020-09-23 12:00:00
 ---
-The [Schwinn AC Performance Plus bike](https://www.amazon.com/AC-Performance-Plus-Indoor-Cycle/dp/B002KV942W) has an [MPower Echelon2 console](https://www.amazon.com/Schwinn-MPower-Echelon2-Console-Upgrade/dp/B074TK4NQ2) which only supports ANT+ protocol and not Bluetooth, therefore your tablet or phone cannot directly connect to it. For the same reason Track My Indoor Workout cannot directly measure the workouts, but fortunately the console supports the save of your workout to a USB thumb drive and the application is capable of importing that:
+The [Schwinn AC Performance Plus bike](https://www.amazon.com/AC-Performance-Plus-Indoor-Cycle/dp/B002KV942W) has an [MPower Echelon2 console](https://www.amazon.com/Schwinn-MPower-Echelon2-Console-Upgrade/dp/B074TK4NQ2) which only supports ANT+ protocol and not Bluetooth, therefore your tablet or phone cannot directly connect to it. For the same reason Track My Indoor Workout application cannot measure the workouts, but fortunately the console supports the save of your workout to a USB thumb drive and the application is capable of importing it:
 
-0. Obtain a USB thumb drive and make sure it is formatted to the FAT32 file system (99% of the time that's the case).
+0. Obtain a USB thumb drive and make sure it is formatted to the FAT32 file system (99% of the time that is the case).
 1. [Watch this video about how you can save your workout onto the pen drive](https://www.youtube.com/watch?v=ENkHdcV_E70)
 1. Connect the thumb drive to the console before the workout.
 1. Start pedaling and press the top button to turn on the console.

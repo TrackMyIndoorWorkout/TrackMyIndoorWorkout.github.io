@@ -14,11 +14,11 @@ The [Schwinn AC Performance Plus bike](https://www.amazon.com/AC-Performance-Plu
 1. After the workout - possibly during the stretching phase - long press the AVG button until an USB connectivity icon appears and starts blinking on the console display [as the video referenced earlier shows](https://www.youtube.com/watch?v=ENkHdcV_E70).
 1. Release the AVG button and wait until the USB icon stops blinking and disappears.
 1. Disconnect the thumb drive.
-1. Upload the resulting CSV file onto a file sharing service which is capable of providing a direct RAW link to the CSV file. The raw link is extremely important: Google Drive, Microsoft OneDrive, and majority of the file sharing services are unable to give you a direct link! You can either use the ['?dl=2' DropBox trick](https://www.youtube.com/watch?v=zM919plLAtk) or use GitHub or similar Git hosting services to conclude to a RAW link.
+1. Upload the resulting CSV file onto your preferred file sharing service which is installed on your phone as well.
 1. Navigate to the Activity list screen in the Track My Indoor Workout app.
 1. Click on the Upload arrow in the header (next to the question mark button).
-1. On the Import form paste the RAW URL onto the first edit field.
+1. On the Import form click on the three dots (...) and pick the file you uploaded in the earlier step.
 1. Specify the date and time of your workout.
 1. Click the import button.
-1. The import process needs to populate several thousands of records into the local database of the app, which can sometimes take ten seconds or more depending on the speed of your phone and the length of the workout.
+1. The import process needs to populate several thousands of records into the local database of the app, which can sometimes take several seconds or more depending on the speed of your phone and the length of the workout.
 1. Navigate back to the activity list and refresh the list, your newly imported workout should appear now. Study the workout if it matches your expectations.

@@ -20,5 +20,5 @@ The [Schwinn AC Performance Plus bike](https://www.amazon.com/AC-Performance-Plu
 1. On the Import form click on the three dots (...) and pick the file you uploaded in the earlier step.
 1. Specify the date and time of your workout.
 1. Click the import button.
-1. The import process needs to populate several thousands of records into the local database of the app, which can sometimes take several seconds or more depending on the speed of your phone and the length of the workout.
+1. The import process needs to populate several thousands of records into the local database of the app, which can sometimes take some seconds depending on the speed of your phone and the length of the workout.
 1. Navigate back to the activity list and refresh the list, your newly imported workout should appear now. Study the workout if it matches your expectations.

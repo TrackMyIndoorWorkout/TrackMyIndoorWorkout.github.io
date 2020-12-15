@@ -3,9 +3,7 @@ layout: home
 ---
 Track My Indoor Workout is an application to record virtual workouts including all the important metrics (power meter reading, cadence sensor, spent calories, heart rate, speed, distance) while also adding emulated GPS routes. Workouts can be synced to [Strava](https://www.strava.com/) for persistence, or [TCX files](https://en.wikipedia.org/wiki/Training_Center_XML) can be downloaded for ingestion into other ecosystems. One major motivation for the app was that some cycling oriented fitness challenges wouldn't count virtual rides without GPS data plus the Wahoo app didn't pick up the power meter and cadence readings.
 
-The app calculates the GPS route based on the speed data and emulates circling laps in the [Jerry Baker Memorial Velodrome](https://velodrome.org/) in [Marymoor Park](https://www.kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/marymoor/velodrome.aspx) in [Redmond, Washington](https://www.google.com/maps/place/Jerry+Baker+Memorial+Velodrome/@47.6659161,-122.1125076,96m/data=!3m1!1e3!4m5!3m4!1s0x0:0x7d3c1ebef878f4c!8m2!3d47.665894!4d-122.1126097). The current code will be able to handle any 400m tracks (and possibly even other length) in the future once that becomes configurable.
-
-Currently the app supports the following fitness equipment:
+The app calculates the GPS route based on the speed data and emulates circling laps on a running laps (to avoid any interference with cycling segments and KOMs - running activities will be in a velodrome for the same reason). Currently the app supports the following fitness equipment:
 
 1. [Precor Spinner® Chrono™ Power](https://www.precor.com/en-us/commercial/cardio/indoor-cycling/spinner-chrono-power)
 1. [Schwinn IC4](https://www.schwinnfitness.com/ic4/100873.html)

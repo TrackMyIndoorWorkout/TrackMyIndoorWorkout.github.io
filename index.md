@@ -3,7 +3,7 @@ layout: home
 ---
 Track My Indoor Workout is an application to record virtual workouts including all the important metrics (power meter reading, cadence sensor, spent calories, heart rate, speed, distance) while also adding emulated GPS routes. Workouts can be synced to [Strava](https://www.strava.com/) for persistence, or [TCX files](https://en.wikipedia.org/wiki/Training_Center_XML) can be downloaded for ingestion into other ecosystems. One major motivation for the app was that some cycling oriented fitness challenges wouldn't count virtual rides without GPS data plus the Wahoo app didn't pick up the power meter and cadence readings.
 
-The app calculates the GPS route based on the speed data and emulates circling laps on a running laps (to avoid any interference with cycling segments and KOMs - running activities will be in a velodrome for the same reason). Currently the app supports the following fitness equipment:
+The app calculates the GPS route based on the speed data and emulates circling laps on a running track (Hoover High School, to avoid any interference with Strava cycling segments and KOMs - running activities will be in a velodrome for the same reason). Currently the app supports the following fitness equipment:
 
 1. [Precor Spinner® Chrono™ Power](https://www.precor.com/en-us/commercial/cardio/indoor-cycling/spinner-chrono-power)
 1. [Schwinn IC4](https://www.schwinnfitness.com/ic4/100873.html)

@@ -41,4 +41,15 @@ redirect_from:
     </div>
 </div>
 
+<div class="section">
+    <div class="row">
+        <div class="col s12">
+            Q: The calorie counting doesn't match the console display or my expectations. What could be the reason?
+        </div>
+        <div class="col s12">
+            A: Certain fitness equipment doesn't report the calorie reading or distance reading it displays on its console. Therefore Track My Indoor Workout needs to estimate those values on its own. In case of calories the app uses the power reading (Watts) to integrate those values over time to come up with a calorie value. However the human body has about 20%-25% efficiency, so when an equipment measures 75 Watts the human body actually expends four or five times that energy. With these heuristics the number the application comes up with could be very well different than the console reading. Similarly distance sometimes has to be integrated over time using the speed readings. The upcoming release will provide a way to manually tune such situations. In extreme cases (Schwinn AC Performance Plus) the app computes speed from the Watt readings in which case even wind resistance is taken into account.
+        </div>
+    </div>
+</div>
+
 <div class="divider"></div>

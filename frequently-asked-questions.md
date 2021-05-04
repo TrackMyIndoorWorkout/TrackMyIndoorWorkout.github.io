@@ -36,7 +36,7 @@ redirect_from:
             Q: My phone is very sluggish, the application lags behind. Can that be improved?
         </div>
         <div class="col s12">
-            A: I'm aware that that application is not performant enough for older or slower devices. A partial fix I can offer is a settings switch called "Simplify Measurement UI". It is off by default, but when turned on the graphs won't be available during measurement - thus decreasing the complexity of that screen. You'll still be able to look at the graphs when you examine activities in the activity list screen post-workout.
+            A: I'm aware that the application is not performant enough for older or slower devices. A partial fix I can offer is a settings switch called "Simplify Measurement UI". It is off by default, but when turned on the graphs won't be available during measurement - thus decreasing the complexity of that screen. You'll still be able to look at the graphs when you examine activities in the activity list screen post-workout.
         </div>
         <div class="col s12">
             <img src="/img/simplify_measurement_ui.jpg" alt="Simplify Measurement UI switch">

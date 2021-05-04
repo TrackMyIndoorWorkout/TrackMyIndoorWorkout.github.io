@@ -3,9 +3,9 @@ layout: post
 title: Frequently Asked Questions
 date: 2020-09-22 12:00:00
 ---
-##### Q: I cannot upload the downloaded files to my choice of sport portal. Why is that?
+##### Q: I cannot upload the downloaded files to my choice of workout portal. Why is that?
 
-A: The application compresses the files when uploading them to Strava to shorten the upload time and save bandwidth. Your downloaded files might be compressed too: you can recognize that if the file extension is ending with '.gz', like '.TCX.gz' or '.FIT.gz.'. Although sport portals may accept compressed uploads programmatically, for manual uploads they require uncompressed files. On Windows operating system [7-Zip](https://www.7-zip.org/) or [Total Commander](https://www.ghisler.com/) is able to help you with GZIP decompression.
+A: The application compresses the files when uploading them to Strava to shorten the upload time and save bandwidth. Your downloaded files might be compressed too: you can recognize that if the file extension is ending with '.gz', like '.TCX.gz' or '.FIT.gz.'. Although workout portals may accept compressed uploads programmatically, for manual uploads they require uncompressed files. On Windows operating system [7-Zip](https://www.7-zip.org/) or [Total Commander](https://www.ghisler.com/) is able to help you with GZIP decompression.
 
 ##### Q: I put the application in the background / locked my phone during workout measurement. The application slowed down, became unresponsive for some time and the resulting recording seems off. What happened?
 

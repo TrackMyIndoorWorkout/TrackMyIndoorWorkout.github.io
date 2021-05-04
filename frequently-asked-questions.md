@@ -11,10 +11,10 @@ redirect_from:
 <div class="section">
     <div class="row">
         <div class="col s12">
-            Q: I cannot upload the downloaded files to my choice of sport portal. Why is that?
+            Q: I cannot upload the downloaded files to my choice of workout portal. Why is that?
         </div>
         <div class="col s12">
-            A: The application compresses the files when uploading them to Strava to shorten the upload time and save bandwidth. Your downloaded files might be compressed too: you can recognize that if the file extension is ending with '.gz', like '.TCX.gz' or '.FIT.gz.'. Although sport portals may accept compressed uploads programmatically, for manual uploads they require uncompressed files. On Windows operating system <a href="https://www.7-zip.org/">7-Zip</a> or <a href="https://www.ghisler.com/">Total Commander</a> is able to help you with GZIP decompression.
+            A: The application compresses the files when uploading them to Strava to shorten the upload time and save bandwidth. Your downloaded files might be compressed too: you can recognize that if the file extension is ending with '.gz', like '.TCX.gz' or '.FIT.gz.'. Although workout portals may accept compressed uploads programmatically, for manual uploads they require uncompressed files. On Windows operating system <a href="https://www.7-zip.org/">7-Zip</a> or <a href="https://www.ghisler.com/">Total Commander</a> is able to help you with GZIP decompression.
         </div>
     </div>
 </div>

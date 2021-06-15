@@ -9,7 +9,7 @@ A: The application compresses the files when uploading them to Strava to shorten
 
 ##### Q: I put the application in the background / locked my phone during workout measurement. The application slowed down, became unresponsive for some time and the resulting recording seems off. What happened?
 
-A: For [technical reasons the data acquisition pauses when the application is not in the foreground](https://stackoverflow.com/questions/64831910/how-to-make-my-app-keep-receiving-and-processing-bluetooth-data-while-the-phone) (either being in the background or the phone getting locked). This is the reason why the measurement screen has a wake lock which prevents the phone from going to sleep during workout. When this issue happens the information piles up and once the application gets back into the foreground it is flooded with all of that at once. The Precor Spinner Chrono Power attaches time stamps to their data packets but the Schwinn IC4 for example does not and that makes it impossible to reconstruct a workout forensically when this flooding happens. So the resulting workout will be skewed and the processing of many packets makes the app unresponsive. The future versions will have a rate limiting which will help to drop the packages, but that won't help with the core problem. If you are software engineer proficient in Flutter feel free to help me with advice to tackle this.
+A: For [technical reasons the data acquisition pauses when the application is not in the foreground](https://stackoverflow.com/questions/64831910/how-to-make-my-app-keep-receiving-and-processing-bluetooth-data-while-the-phone) (either being in the background or the phone getting locked). This is the reason why the measurement screen has a wake lock which prevents the phone from going to sleep during workout. When this issue happens the information piles up and once the application gets back into the foreground it is flooded with all of that at once. The Precor Spinner Chrono Power attaches time stamps to their data packets but the Schwinn IC4 for example does not and that makes it impossible to reconstruct a workout forensically when this flooding happens. So the resulting workout will be skewed and the processing of many packets makes the app unresponsive. The future versions will have a rate limiting which will help to drop the packages, but that won't help with the core problem. If you are a software engineer proficient in Flutter feel free to help me with advice to tackle this.
 
 ##### Q: My phone is very sluggish, the application lags behind. Can that be improved?
 
@@ -17,11 +17,11 @@ A: I'm aware that the application is not performant enough for older or slower d
 
 ![Simplify Measurement UI switch](/img/simplify_measurement_ui.jpg)
 
-If you are software engineer proficient in Flutter feel free to help me: my goal is to refactor the application to utilize Provider and BLoC design patterns and eradicate any setState calls.
+If you are a software engineer proficient in Flutter feel free to help me: my goal is to refactor the application to utilize Provider and BLoC design patterns and eradicate any setState calls.
 
 ##### Q: I see a blank white screen after I start the app. How can I fix that?
 
-A: The application has many moving parts and if the underlying engine experiences any glitches during the starting phase then the initialization might stop: effectively the app presents a blank white screen and doesn't advance. Some users experienced such phenomena during the first application start after a fresh install. As a workaround try closing the app and then starting it again - this can help if the white screen only comes for the very first start after installation. If that doesn't help (and even if it helps) please contact me by email and tell me what phone / tablet do you have and how did you experience the white screen.
+A: The application has many moving parts and if the underlying engine experiences any glitches during the starting phase then the initialization might stop: effectively the app presents a blank white screen and doesn't advance. Some users experienced such phenomena during the first application start after a fresh install. As a workaround try closing the app and then starting it again - this can help if the white screen only comes for the very first start after installation. If that doesn't help (and even if it helps) please contact me by email and tell me what phone / tablet you have and how you experience the white screen.
 
 ##### Q: The graphs are too tall on the workout measurement screen, can I change that?
 
@@ -37,7 +37,12 @@ A: When determining the data connection status the app doesn't only look if the 
 
 ##### Q: You mention the upcoming version several times. Is there any way to try that?
 
-A: Email me your Gmail or GSuite email address and I can add you to the closed beta version. The closed beta version can frequently change and could potentially contains bugs. The open beta release is more stable.
+A: There's an open beta version which may contain new features, you can opt-in to beta in Google Play Store. Email me your Gmail or GSuite email address and I can add you to the closed beta version. The closed beta version can frequently change and could potentially contain bugs. The open beta release is more stable.
+
+##### Q: All of my workouts show up in Fresno. Is there a way to change that?
+
+A: It's a unique feature of the application that it is able to generate a GPS track for your indoor workouts, so your workouts can count against
+challenges which require GPS. However with great power comes great responsibility. Early versions generated the ride routes into the Jerry Baker Memorial / Marymoore Velodrome in Redmond Washington. However it soon revealed that the workouts would interfere with real velodrome rider's results. Combine this with the fact that indoor bikes can be miscalibrated (not to mention the applications power tuning feature) it'd be unfair and unethical to take down KOMs. Similar thinking goes to indoor runs. Therefore I picked a running track for the bike rides, because this ensured there wouldn't be any KOM segments on the generated route. Similarly the run is done in a position where there aren't any running segments to CR. It's a low priority ticket to allow picking tracks per timezone (or even per country).
 
 ##### Q: I have trouble with Strava uploads. How can I fix that?
 

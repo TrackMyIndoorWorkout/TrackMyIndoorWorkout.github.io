@@ -9,7 +9,7 @@ permalink: /known-issues/
 <div class="section">
     <div class="row">
         <div class="col s12">
-            Some handheld devices present a blank white screen after the app and don't advance to the actual scanning page. There can be multiple reasons for this, some of which I couldn't solve yet. In some cases that happens only for the first start after a fresh install, in that case it helps to kill the app and start it again. Otherwise please email me your configuration: phone model, Android version, do you have bluetooth enabled and if the app has permissions.
+            Some handheld devices present a blank white screen after the app and don't advance to the actual scanning page. There can be multiple reasons for this, some of which I couldn't solve yet. In some cases that happens only for the first start after a fresh install. Although not elegant, but in such case it helps to simply kill the app and start it again, and this behavior won't re-occur. Otherwise please email me your configuration: phone model, Android version, do you have bluetooth enabled and if the app has permissions.
         </div>
     </div>
 </div>
@@ -33,7 +33,7 @@ permalink: /known-issues/
 <div class="section">
     <div class="row">
         <div class="col s12">
-            Downloaded exercise files have to be un-gzipped if their extension ends with '.gz', because workout portals only accept uncompressed versions. On Windows operating system <a href="https://www.7-zip.org/">7-Zip</a> or <a href="https://www.ghisler.com/">Total Commander</a> is able to help you with GZIP decompression.
+            Up until app version 1.0.30 (build 30) the downloaded exercise files have to be un-gzipped if their extension ends with '.gz', because workout portals only accept uncompressed versions. On Windows operating system <a href="https://www.7-zip.org/">7-Zip</a> or <a href="https://www.ghisler.com/">Total Commander</a> is able to help you with GZIP decompression.
         </div>
     </div>
 </div>
@@ -41,7 +41,7 @@ permalink: /known-issues/
 <div class="section">
     <div class="row">
         <div class="col s12">
-            Rarely on certain managed networks Strava upload may falsely claim no internet connection. This is an interference between the network configuration and how the application determines connection. <a href="faq/">For more details please check out the FAQ page entry</a>. In the future releases this can be configurable.
+            Rarely on certain managed networks Strava upload may falsely claim no internet connection. This is an interference between the network configuration and how the application determines connection. <a href="faq/">For more details please check out the FAQ page entry</a>. Newer than the #30 builds will have a configurable behavior in this respect.
         </div>
     </div>
 </div>

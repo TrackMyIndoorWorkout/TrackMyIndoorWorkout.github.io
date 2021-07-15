@@ -15,7 +15,7 @@ redirect_from:
       Csaba Consulting. This privacy policy provides information about
       the personal information the application may collect or pass along, and the
       ways in which the related services use that personal information.
-    </div[]>
+    </div>
   </div>
 </div>
 

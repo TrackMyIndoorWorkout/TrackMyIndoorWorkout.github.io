@@ -7,7 +7,16 @@ layout: default
 
       <h1 class="header center orange-text">{{ site.title }}</h1>
       <div class="row center">
-        <h5 class="header col s12 light">{{ content }}</h5>
+        <h5 class="header col s12 light">
+          <p>
+            Track My Indoor Workout is a free application for recording stationary workouts along with
+            a calculated GPS track based on the speed reading. Workouts can be synced to
+            <a href="https://www.strava.com/">Strava</a> for persistence, or can be downloaded in a
+            <a href="https://developer.garmin.com/fit/protocol/">FIT</a> or a
+            <a href="https://en.wikipedia.org/wiki/Training_Center_XML">TCX</a>
+            format for ingestion into other workout portals.
+          </p>
+        </h5>
       </div>
     </div>
   </div>
@@ -24,27 +33,40 @@ layout: default
                 <img src="img/google-play-badge.png">
               </a>
             </h2>
-            <h5 class="center">Track My Indoor Workout Application</h5>
+            <h5 class="center"><a href="{{ site.app_store_url }}">Track My Indoor Workout Android App</a></h5>
+            <p class="light"><a href="{{ site.app_store_url }}">Google Play Store</a></p>
+          </div>
+        </div>
 
-            <p class="light">Smash Strava cycling challenges which require recorded GPS route as well!
+        <div class="col s12 m6 l4 xl4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text">
+              <a href="https://kayakpro.com/">
+                <img src="img/KayakPro_logo.png">
+              </a>
+            </h2>
+            <h5 class="center">
+              <a href="https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-console/">KayakPro</a>
+              and <a href="https://www.kayakpro.com/swimfast/">SwimFast</a> equipment support
+            </h5>
+            <p class="light">via <a href="https://www.kayakpro.com/speedstrokepro/genesis-port-smart-console/">
+              Genesis Port smart console</a>
             </p>
           </div>
         </div>
 
         <div class="col s12 m6 l4 xl4">
           <div class="icon-block">
-            <h2 class="center light-blue-text"><i class="material-icons">speed</i></h2>
-            <h5 class="center">Sensor readings</h5>
-
-            <p class="light">Capable of reading the power meter and the cadence sensors as well</p>
+            <h2 class="center light-blue-text"><i class="material-icons">directions_bike</i></h2>
+            <h5 class="center">Supporting Bluetooth Fitness Machines</h5>
+            <p class="light">BLE FTMS Indoor Bikes, Treadmills and Rowers (kayaking, canoeing, rowing, and swimming)</p>
           </div>
         </div>
 
         <div class="col s12 m6 l4 xl4">
           <div class="icon-block">
-            <h2 class="center light-blue-text"><i class="material-icons">directions_bike</i></h2>
+            <h2 class="center light-blue-text"><i class="material-icons">sports</i></h2>
             <h5 class="center">Strava integration and TCX download</h5>
-
             <p class="light">Capable of uploading the workout through Strava integration and offers TCX file download as well</p>
           </div>
         </div>
@@ -60,8 +82,7 @@ layout: default
                 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
               </form>
             </h2>
-            <h5 class="center">...only if you have some spare change, enjoy the app, and feel like donating</h5>
-
+            <h5 class="center">Cheers!</h5>
             <p class="light">This is a hobby project.</p>
           </div>
         </div>
@@ -69,6 +90,69 @@ layout: default
 
     </div>
   </div>
+
+  <div class="container">
+    <div class="section">
+      <h5>Supported Fitness Equipment</h5>
+      <div class="row">
+        <h5 class="header col s12 light">{{ content }}</h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="section">
+      <h5>Features</h5>
+      <div class="row">
+        <p>&bull; Generate GPS track based on the speed readings, so you can participate in challenges requiring GPS data.</p>
+        <p>&bull; Upload activities to Strava (other fitness portals are coming soon)</p>
+        <p>&bull; Downloading activities in <a href="https://developer.garmin.com/fit/protocol/">FIT</a> or
+          <a href="https://en.wikipedia.org/wiki/Training_Center_XML">TCX</a> format
+        </p>
+        <p>&bull; <a href="https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-console/">KayakPro</a>,
+          <a href="https://www.kayakpro.com/swimfast/">SwimFast</a>, and
+          <a href="https://www.kayakpro.com/speedstrokepro/genesis-port-smart-console/">SpeedStroke</a> support
+          via <a href="https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-console/">Genesis Port Smart Console</a>
+        </p>
+        <p>&bull; Handle multi-sport devices, for example KayakPro's Genesis Port could cover kayaking, canoeing, rowing,
+          or swimming activity. Sport can be picked per activity.
+        </p>
+        <p>&bull; Ability to pair heart rate monitors directly to the app (especially useful if the fitness equipment
+          console doesn't have heart rate monitor connection capability)
+        </p>
+        <p>&bull; Split screen support (landscape mode is strictly for that purpose for now)</p>
+        <p>&bull; Target Heart rate range support: configurable by explicit heart rate lower + upper values or
+          lower + upper zones indexes. Visual warning if you are in-range, over, or under, and also
+          audio warning is possible (one time or periodic) from a selection of sound effects
+        </p>
+        <p>&bull; Display zone index besides measurements, optional coloring of the measurement
+          row based on zones
+        </p>
+        <p>&bull; Personal leaderboard: comparison of current effort with previous effort (based on past average speeds)</p>
+        <p>&bull; Pacelight: speed coloring with blue or green based on behind or ahead positions</p>
+        <p>&bull; Display leaderboard ranking below the speed reading and also optionally on the track</p>
+        <p>&bull; Tune the calorie count by providing the expected calories vs the measured</p>
+        <p>&bull; Tune power reading based on percentage adjustment for miscalibrated devices.
+          Power reading tune may affect other measures if they are calculated based on power
+          (for example calories or speed in some cases)
+        </p>
+        <p>&bull; Expand power tune adjustments to speed or calorie measurements (even in case they are not
+          directly calculated from power)
+        </p>
+        <p>&bull; Configurable intermittent heart rate data gap handling: repeating last known value, mark as zeros
+          or record nulls
+        </p>
+        <p>&bull; Limit maximum heart rate: configurable threshold and how the exceed events should be
+          handled (keep it at the threshold, zero it out, or nullify)
+        </p>
+        <p>&bull; Ability of calculating calories based on heart rate and athlete age, weight, and gender.
+          Optional extra VO2max value could make the equation even more precise.
+        </p>
+        <p>&bull; Dark / light mode support</p>
+      </div>
+    </div>
+  </div>
+
   <div style="background: #ddd">
     <div class="container last-post">
       <section>

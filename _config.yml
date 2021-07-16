@@ -9,6 +9,9 @@ github_username:  MrCsabaToth
 
 google_analytics: UA-86563829-6
 app_store_url: https://play.google.com/store/apps/details?id=dev.csaba.track_my_indoor_exercise
+kayakpro_url: https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-console/
+swimfast_url: https://www.kayakpro.com/swimfast/
+speedstroke_url: https://www.kayakpro.com/speedstrokepro/genesis-port-smart-console/
 
 exclude:
   - "LICENSE"

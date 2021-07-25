@@ -49,7 +49,7 @@ permalink: /known-issues/
 <div class="section">
     <div class="row">
         <div class="col s12">
-            Calorie counting (or some other aspect) might not match the console's display or expectations. Certain fitness equipment doesn't report the calorie reading or distance reading it displays on its console. Therefore Track My Indoor Workout needs to estimate those values on its own and that can result in sometimes even significant difference. <a href="faq/">The FAQ contains more details</a> and the future release will provide detailed configuration for the behavior to manually counteract any drift.
+            Calorie counting (or some other aspect) might not match the console's display or expectations. Certain fitness machines don't report the calorie reading or distance reading they display on their console. Therefore Track My Indoor Workout needs to estimate those values on its own and that can result in sometimes even significant difference. <a href="faq/">The FAQ contains more details</a> and the future release will provide detailed configuration for the behavior to manually counteract any drift.
         </div>
     </div>
 </div>

@@ -26,7 +26,7 @@
         </ul>
 
         <ul id="nav-mobile" class="side-nav">
-            <li class="no-bullet"><a href="#">Home</a></li>
+            <li class="no-bullet"><a href="{{ "/" | relative_url }}">Home</a></li>
             <li class="no-bullet"><a href="{{ site.app_store_url }}">App </a></li>
             {% if page_paths %}
                 {% for path in page_paths %}

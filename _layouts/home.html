@@ -105,52 +105,56 @@ layout: default
     <div class="section">
       <h5>Features</h5>
       <div class="row">
-        <h6>&#9679; Generate GPS track based on the speed readings, so you can participate in challenges requiring GPS data.</h6>
-        <h6>&#9679; Upload activities to Strava (other fitness portals are coming soon)</h6>
-        <h6>&#9679; Downloading activities in <a href="https://developer.garmin.com/fit/protocol/">FIT</a> or
-          <a href="https://en.wikipedia.org/wiki/Training_Center_XML">TCX</a> format
-        </h6>
-        <h6>&#9679; <a href="https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-console/">KayakPro</a>,
-          <a href="https://www.kayakpro.com/swimfast/">SwimFast</a>, and
-          <a href="https://www.kayakpro.com/speedstrokepro/genesis-port-smart-console/">SpeedStroke Pro</a> support
-          via <a href="https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-console/">Genesis Port Smart Console</a>
-        </h6>
-        <h6>&#9679; Handle multi-sport devices, for example KayakPro's Genesis Port could cover kayaking, canoeing, rowing,
-          or swimming activity. Sport can be picked per activity.
-        </h6>
-        <h6>&#9679; Ability to pair heart rate monitors directly to the app (especially useful if the fitness machine's
-          console doesn't have heart rate monitor capability)
-        </h6>
-        <h6>&#9679; Split screen support (landscape mode is strictly for that purpose for now)</h6>
-        <h6>&#9679; Target Heart rate range support: configurable by explicit heart rate lower + upper values or
-          lower + upper zones indexes. Visual warning if you are in-range, over, or under, and also
-          audio warning is possible (one time or periodic) from a selection of sound effects
-        </h6>
-        <h6>&#9679; Display zone index besides measurements, optional coloring of the measurement
-          row based on zones
-        </h6>
-        <h6>&#9679; Personal leaderboard: comparison of current effort with previous effort (based on past average speeds)</h6>
-        <h6>&#9679; Pacelight: speed coloring with blue or green based on behind or ahead positions</h6>
-        <h6>&#9679; Display leaderboard ranking below the speed reading and also optionally on the track</h6>
-        <h6>&#9679; Tune the calorie count by providing the expected calories vs the measured</h6>
-        <h6>&#9679; Tune power reading based on percentage adjustment for miscalibrated devices.
-          Power reading tune may affect other measures if they are calculated based on power
-          (for example calories or speed in some cases)
-        </h6>
-        <h6>&#9679; Expand power tune adjustments to speed or calorie measurements (even in case they are not
-          directly calculated from power)
-        </h6>
-        <h6>&#9679; Configurable intermittent heart rate data gap handling: repeating last known value, mark as zeros
-          or record nulls
-        </h6>
-        <h6>&#9679; Limit maximum heart rate: configurable threshold and how the exceed events should be
-          handled (keep it at the threshold, zero it out, or nullify)
-        </h6>
-        <h6>&#9679; Ability of calculating calories based on heart rate and athlete age, weight, and gender.
-          Optional extra VO2max value could make the equation even more precise.
-        </h6>
-        <h6>&#9679; Dark / light mode support</h6>
-        <h6>&#9679; Suporting BLE FTMS standard Spin-Down (calibration) procedure sequence, tested with KayakPro</h6>
+        <h5 class="header col s12 light">
+          <ul>
+            <li>Generate GPS track based on the speed readings, so you can participate in challenges requiring GPS data.</li>
+            <li>Upload activities to Strava (other fitness portals are coming soon)</li>
+            <li>Downloading activities in <a href="https://developer.garmin.com/fit/protocol/">FIT</a> or
+              <a href="https://en.wikipedia.org/wiki/Training_Center_XML">TCX</a> format
+            </li>
+            <li><a href="https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-console/">KayakPro</a>,
+              <a href="https://www.kayakpro.com/swimfast/">SwimFast</a>, and
+              <a href="https://www.kayakpro.com/speedstrokepro/genesis-port-smart-console/">SpeedStroke Pro</a> support
+              via <a href="https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-console/">Genesis Port Smart Console</a>
+            </li>
+            <li>Handle multi-sport devices, for example KayakPro's Genesis Port could cover kayaking, canoeing, rowing,
+              or swimming activity. Sport can be picked per activity.
+            </li>
+            <li>Ability to pair heart rate monitors directly to the app (especially useful if the fitness machine's
+              console doesn't have heart rate monitor capability)
+            </li>
+            <li>Split screen support (landscape mode is strictly for that purpose for now)</li>
+            <li>Target Heart rate range support: configurable by explicit heart rate lower + upper values or
+              lower + upper zones indexes. Visual warning if you are in-range, over, or under, and also
+              audio warning is possible (one time or periodic) from a selection of sound effects
+            </li>
+            <li>Display zone index besides measurements, optional coloring of the measurement
+              row based on zones
+            </li>
+            <li>Personal leaderboard: comparison of current effort with previous effort (based on past average speeds)</li>
+            <li>Pacelight: speed coloring with blue or green based on behind or ahead positions</li>
+            <li>Display leaderboard ranking below the speed reading and also optionally on the track</li>
+            <li>Tune the calorie count by providing the expected calories vs the measured</li>
+            <li>Tune power reading based on percentage adjustment for miscalibrated devices.
+              Power reading tune may affect other measures if they are calculated based on power
+              (for example calories or speed in some cases)
+            </li>
+            <li>Expand power tune adjustments to speed or calorie measurements (even in case they are not
+              directly calculated from power)
+            </li>
+            <li>Configurable intermittent heart rate data gap handling: repeating last known value, mark as zeros
+              or record nulls
+            </li>
+            <li>Limit maximum heart rate: configurable threshold and how the exceed events should be
+              handled (keep it at the threshold, zero it out, or nullify)
+            </li>
+            <li>Ability of calculating calories based on heart rate and athlete age, weight, and gender.
+              Optional extra VO2max value could make the equation even more precise.
+            </li>
+            <li>Dark / light mode support</li>
+            <li>Suporting BLE FTMS standard Spin-Down (calibration) procedure sequence, tested with KayakPro</li>
+          </ul>
+        </h5>
       </div>
     </div>
   </div>
@@ -161,7 +165,7 @@ layout: default
         <h5>Guides</h5>
         <ul class="collection">
         {% for post in site.posts %}
-        <li class="collection-item avatar">
+        <li class="collection-item avatar no-bullet">
           {% assign date_format = site.minima.date_format | default: "%m/%d" %}
           <div class="date-post">{{ post.date | date: date_format }}</div>
           <span class="title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>

@@ -9,7 +9,7 @@ permalink: /known-issues/
 <div class="section">
     <div class="row">
         <div class="col s12">
-            Some handheld devices present a blank white screen after the app and don't advance to the actual scanning page. There can be multiple reasons for this, some of which I couldn't solve yet. In some cases that happens only for the first start after a fresh install. Although not elegant, but in such case it helps to simply kill the app and start it again, and this behavior won't re-occur. Otherwise please email me your configuration: phone model, Android version, do you have bluetooth enabled and if the app has permissions.
+            Some handheld devices might present a blank white screen after the app start and don't advance to the actual scanning page. There can be multiple reasons for this, some of which I couldn't solve yet. In some cases that happens only for the first start after a fresh install. Although not elegant, but in such case it helps to simply kill the app and start it again, and this behavior won't re-occur. Otherwise please email me your configuration: phone model, Android version, do you have bluetooth enabled and if the app has permissions.
         </div>
     </div>
 </div>

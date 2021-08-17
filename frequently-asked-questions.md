@@ -50,7 +50,7 @@ redirect_from:
             A: I'm aware that the application is not performant enough for older or slower devices. A partial fix I can offer is a settings switch called "Simplify Measurement UI". It is off by default, but when turned on the graphs won't be available during measurement - thus decreasing the complexity of that screen. You'll still be able to look at the graphs when you examine activities in the activity list screen post-workout.
         </div>
         <div class="col s12">
-            <img src="/img/simplify_measurement_ui.jpg" alt="Simplify Measurement UI switch">
+            <img class="responsive-img" src="/img/simplify_measurement_ui.jpg" alt="Simplify Measurement UI switch">
         </div>
         <div class="col s12">
             If you are a software engineer proficient in Flutter feel free to help me: my goal is to refactor the application to utilize Provider and BLoC design patterns and eradicate any setState calls.
@@ -133,10 +133,10 @@ redirect_from:
             A: For a successful Strava authentication the system has to jump a gap between the application into the browser and then jump the gap again backwards with the authentication result. The easiest to identify an unsuccessful authentication is when the app repeatedly brings you to the Strava login screen. A simplest trick which may help is to start the default browser (that's the same browser the application starts for you) on your device and login to Strava in advance before you'll try the upload. It's very crucial to do that in the same type of browser the application uses, otherwise it won't be able to take advantage of your logged in status. If that doesn't help there can be many reasons for a failure. If you use another browser as the default than the usual system default browser it may help to temporarily revert back the default status to the system's browser. In the following screenshots I show you how to check the list of your supported apps on a desktop browser. If 'Track My Indoor Workout' is listed then it means you've successfully authenticated the application in the past sometimes. Uninstallation of the application will require another authentication though, so the presence of the app in this list may not mean that your current installation is authenticated as well.
         </div>
         <div class="col s12">
-            <img src="/img/strava_my_apps1.jpg" alt="Strava My Apps 1">
+            <img class="responsive-img" src="/img/strava_my_apps1.jpg" alt="Strava My Apps 1">
         </div>
         <div class="col s12">
-            <img src="/img/strava_my_apps2.jpg" alt="Strava My Apps with Track My Indoor Workout">
+            <img class="responsive-img" src="/img/strava_my_apps2.jpg" alt="Strava My Apps with Track My Indoor Workout">
         </div>
     </div>
 </div>

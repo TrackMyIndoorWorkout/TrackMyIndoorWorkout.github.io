@@ -12,6 +12,7 @@ app_store_url: https://play.google.com/store/apps/details?id=dev.csaba.track_my_
 kayakpro_url: https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-console/
 swimfast_url: https://www.kayakpro.com/swimfast/
 speedstroke_url: https://www.kayakpro.com/speedstrokepro/genesis-port-smart-console/
+quick_start_video_url: https://www.youtube.com/watch?v=ntdPXvt-Uxw
 
 exclude:
   - "LICENSE"

@@ -13,6 +13,11 @@ kayakpro_url: https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-conso
 swimfast_url: https://www.kayakpro.com/swimfast/
 speedstroke_url: https://www.kayakpro.com/speedstrokepro/genesis-port-smart-console/
 quick_start_video_url: https://www.youtube.com/watch?v=ntdPXvt-Uxw
+strava_url: https://www.strava.com/
+mapmyfitness_url: https://www.mapmyfitness.com/
+mapmyrun_url: https://www.mapmyrun.com/
+suunto_url: https://www.suunto.com/
+sports_tracker_url: https://sports-tracker.com/
 
 exclude:
   - "LICENSE"

@@ -13,7 +13,8 @@ layout: default
             a calculated GPS track based on the speed reading. Workouts can be synced to
             <a href="{{ site.strava_url }}">Strava</a>, Under Armour
             (meaning <a href="{{ site.mapmyfitness_url }}">MapMyFitness</a> or <a href="{{ site.mapmyrun_url }}">MapMyRun</a>),
-            <a href="{{ site.sports_tracker_url }}">SUUNTO</a> for persistence, or can be downloaded in a
+            <a href="{{ site.sports_tracker_url }}">SUUNTO</a>, <a href="{{ site.training_peaks_url }}">Training Peaks</a>
+            for persistence, or can be downloaded in a
             <a href="https://developer.garmin.com/fit/protocol/">FIT</a> and
             <a href="https://en.wikipedia.org/wiki/Training_Center_XML">TCX</a>
             formats for ingestion into other fitness portals.
@@ -113,6 +114,20 @@ layout: default
 
         <div class="col s12 m6 l4 xl4">
           <div class="icon-block">
+            <h2 class="center light-blue-text">
+              <a href="{{ site.training_peaks_url }}">
+                <img class="responsive-img svg-logo" src="img/training-peaks-2line.svg">
+              </a>
+            </h2>
+            <h5 class="center">Training Peaks integration</h5>
+            <p class="light">Upload workouts to
+              <a href="{{ site.training_peaks_url }}">Training Peaks</a>
+            </p>
+          </div>
+        </div>
+
+        <div class="col s12 m6 l4 xl4">
+          <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">sports</i></h2>
             <h5 class="center">FIT and TCX download</h5>
             <p class="light">Download workouts in FIT, TCX, CSV, or JSON formats</p>
@@ -167,9 +182,10 @@ layout: default
             <li>Upload activities to <a href="{{ site.sports_tracker_url }}">SUUNTO</a>
               (Sports Tracker fitness portal)
             </li>
-            <li>Upload activities to Under Armour  (<a href="{{ site.mapmyfitness_url }}">MapMyFitness</a> or
+            <li>Upload activities to Under Armour (<a href="{{ site.mapmyfitness_url }}">MapMyFitness</a> or
               <a href="{{ site.mapmyrun_url }}">MapMyRun</a> fitness portals)
             </li>
+            <li>Upload activities to <a href="{{ site.training_peaks_url }}">Training Peaks</a></li>
             <li>Downloading activities in <a href="https://developer.garmin.com/fit/protocol/">FIT</a> or
               <a href="https://en.wikipedia.org/wiki/Training_Center_XML">TCX</a> format
             </li>

@@ -18,6 +18,7 @@ mapmyfitness_url: https://www.mapmyfitness.com/
 mapmyrun_url: https://www.mapmyrun.com/
 suunto_url: https://www.suunto.com/
 sports_tracker_url: https://sports-tracker.com/
+training_peaks_url: https://app.trainingpeaks.com/
 
 exclude:
   - "LICENSE"

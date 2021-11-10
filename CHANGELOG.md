@@ -4,6 +4,11 @@ title: ChangeLog
 permalink: /changelog/
 ---
 
+## 1.1.84
+
+* Training Peaks integration (workout upload)
+* Workout upload in-progress UI feedback
+
 ## 1.1.83
 
 * BREAKING CHANGE: Re-authentication with Strava will be needed due to preference library changes

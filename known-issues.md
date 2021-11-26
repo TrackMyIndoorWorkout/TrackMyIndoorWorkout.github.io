@@ -17,7 +17,7 @@ permalink: /known-issues/
 <div class="section">
     <div class="row">
         <div class="col s12">
-            Old handheld devices may lose data connection during exercise. Technically the Bluetooth connection remains but the data acquisition stops. I don't have a solution for this yet, I'm applying some countermeasures, but build 82 and above will have a fix which properly finishes the workout if such data blackout happens.
+            Old handheld devices may lose data connection during exercise. Technically the Bluetooth connection remains but the data acquisition stops. I don't have a solution for this yet, I'm applying some countermeasures, but build 85 and above will have a fix which properly finishes the workout if such data blackout happens.
         </div>
     </div>
 </div>
@@ -73,7 +73,7 @@ permalink: /known-issues/
 <div class="section">
     <div class="row">
         <div class="col s12">
-            Strava authentication procedure can fail in some cases. The Android ecosystem is extremely versatile and I wasn't able to track down the reason yet. A simplest trick which may help is to start the default browser (that's the same browser the application starts for you) on your device and login to Strava in advance before you'll try the upload. It's very crucial to use the same browser the application uses, otherwise it won't be able to take advantage of your logged in status. If that doesn't help there can be many reasons for a failure. If you use another browser as the default than the usual system default browser it may help to temporarily revert back to the system's browser.
+            Strava and other integration authentication procedures can fail in some cases. The Android ecosystem is extremely versatile and I wasn't able to track down the reason yet. A simplest trick which may help is to start the default browser (that's the same browser the application starts for you) on your device and login to Strava (or the preferred fitness portal) in advance before you'll try the upload. It's very crucial to use the same browser the application uses, otherwise it won't be able to take advantage of your logged in status. If that doesn't help there can be many reasons for a failure. If you use another browser as the default than the usual system default browser it may help to temporarily revert back to the system's browser.
         </div>
     </div>
 </div>

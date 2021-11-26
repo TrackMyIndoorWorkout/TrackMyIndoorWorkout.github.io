@@ -10,5 +10,6 @@ layout: home
 * [Schwinn 800IC](https://global.schwinnfitness.com/en/800ic/100893.html)
 * [Bowflex C6](https://www.bowflex.com/bikes/c6/100894.html)
 * [Schwinn 510u](https://global.schwinnfitness.com/en/510u/i100931.html)
+* [Schwinn 230](https://www.schwinnfitness.com/230/100932.html)
 * [CyclBar spinning](https://www.cyclebar.com/) studio's [Schwinn AC Performance Plus](https://www.amazon.com/AC-Performance-Plus-Indoor-Cycle/dp/B002KV942W) via the [MPower Echelon2 console's CSV file]({% post_url 2020-09-23-schwinn-ac-performance-plus-support %}).
 * Any Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bike, Treadmill, or Rower

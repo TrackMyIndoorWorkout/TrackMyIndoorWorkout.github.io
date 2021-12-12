@@ -1,0 +1,25 @@
+name: Lighthouse
+on: [push, pull_request]
+jobs:
+  lighthouseci:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14
+
+      - name: Run Lighthouse
+        uses: treosh/lighthouse-ci-action@v8
+        with:
+          urls: |
+            https://trackmyindoorworkout.github.io/
+            https://trackmyindoorworkout.github.io/changelog/
+            https://trackmyindoorworkout.github.io/privacy/
+            https://trackmyindoorworkout.github.io/2020/09/25/quick-start.html
+          budgetPath: ./budget.json
+          uploadArtifacts: true
+          temporaryPublicStorage: true

@@ -13,4 +13,5 @@ layout: home
 * [Schwinn 510u](https://global.schwinnfitness.com/en/510u/i100931.html)
 * [Schwinn 230](https://www.schwinnfitness.com/230/100932.html)
 * [CyclBar spinning](https://www.cyclebar.com/) studio's [Schwinn AC Performance Plus](https://www.amazon.com/AC-Performance-Plus-Indoor-Cycle/dp/B002KV942W) via the [MPower Echelon2 console's CSV file]({% post_url 2020-09-23-schwinn-ac-performance-plus-support %})
+* [Runn smart treadmill sensor (NPE Runn)](https://npe-inc.com/runn-smart-treadmill-sensor-2/)
 * Any Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bike, Treadmill, or Rower

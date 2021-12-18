@@ -127,6 +127,17 @@ redirect_from:
 <div class="section">
     <div class="row">
         <div class="col s12">
+            Q: Strava claims "The upload appears to be malformed and we are unable to process it" when I try to upload an exported FIT file. What could be the reason?
+        </div>
+        <div class="col s12">
+            A: While TCX files are human-readable XML-type text files, FIT files are binary files. A reason for a malformed FIT file could be if any software interferes with the file. FIT files sometimes can be recognized as image files by computer operating systems, in this case, that would be a misinterpretation. I can imagine maybe some anti-virus or corporate defense programs may tamper with the file. Never open the FIT file with any text editor (like Notepad or Word). Try to keep it as intact as possible until you manually upload it.
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="row">
+        <div class="col s12">
             Q: I have trouble with Strava uploads. How can I fix that?
         </div>
         <div class="col s12">

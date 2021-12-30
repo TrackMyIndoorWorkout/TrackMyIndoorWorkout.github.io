@@ -12,6 +12,7 @@ permalink: /changelog/
 * Large code churn to get Continuous Integration going and preparation for contributions
 * GPLv3 license once the app will go open source
 * Recognize Bowflex C7 not as generic
+* Upgrade to Flutter 2.8.1 SDK, numerous component upgrades
 
 ## 1.1.86
 

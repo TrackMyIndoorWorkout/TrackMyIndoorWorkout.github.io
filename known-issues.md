@@ -57,7 +57,7 @@ permalink: /known-issues/
 <div class="section">
     <div class="row">
         <div class="col s12">
-            Rarely on certain managed networks Strava upload may falsely claim no internet connection. This is an interference between the network configuration and how the application determines the connection status. <a href="faq/">For more details please check out the FAQ page entry</a>. Newer than the build 30 will have a configurable behavior in this respect.
+            Rarely on certain managed networks workout upload may falsely claim no internet connection. This is an interference between the network configuration and how the application determines the connection status. <a href="faq/">For more details please check out the FAQ page entry</a>. Newer than the build 30 will have a configurable behavior in this respect.
         </div>
     </div>
 </div>

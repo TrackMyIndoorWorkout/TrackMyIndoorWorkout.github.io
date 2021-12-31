@@ -3,6 +3,9 @@ layout: page
 title: ChangeLog
 permalink: /changelog/
 ---
+## 1.1.88
+
+* Hotfix: Calorie factor adjuster data migration could lock up
 
 ## 1.1.87
 

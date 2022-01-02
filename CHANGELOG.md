@@ -3,6 +3,12 @@ layout: page
 title: ChangeLog
 permalink: /changelog/
 ---
+## 1.1.89
+
+* Adding lap counter display option (center of track or in leaderboard as well)
+* Adding preferences slider to shrink fonts on the Recording, Activity and Workout Details screens
+* Adding simple fixed two column layout for landscape mode with explicit preferences switch
+
 ## 1.1.88
 
 * Hotfix: Calorie factor adjuster data migration could lock up

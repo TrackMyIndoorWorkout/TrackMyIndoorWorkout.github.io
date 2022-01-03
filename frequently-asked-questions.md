@@ -108,7 +108,7 @@ redirect_from:
             Q: You mention the upcoming version several times. Is there any way to try that?
         </div>
         <div class="col s12">
-            A: There's an open beta version which may contain new features, you can opt-in to beta in Google Play Store. Email me your Gmail or GSuite email address and I can add you to the closed beta version. The closed beta version can frequently change and could potentially contain bugs. The open beta release is more stable.
+            A: There is an open beta version that may contain new features, one can opt-in to beta visiting the app's page in Google Play Store. You must visit that page with your handheld device because the button saying "Join the beta" does not appear when you view it with a desktop browser. Since beta versions have new features and code changes there is more chance to encounter a bug than in the stable/final releases.
         </div>
     </div>
 </div>

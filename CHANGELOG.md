@@ -10,6 +10,7 @@ permalink: /changelog/
   displays both moving and elapsed time if they differ.
 * Cross Trainer support fixes
 * Two column layout size adjustment
+* Workout migration import fix
 
 ## 1.1.91
 

@@ -9,7 +9,7 @@ layout: default
       <div class="row center">
         <h5 class="header col s12 light">
           <p>
-            Track My Indoor Workout is a free application to record stationary workouts.
+            Track My Indoor Workout is a <a href="{{ site.app_source_repo }}">free and open source</a> application to record stationary workouts.
             Workouts can have GPS routes - generated based on speed - and upload to
             <a href="{{ site.strava_url }}">Strava</a>, Under Armour
             (meaning <a href="{{ site.mapmyfitness_url }}">MapMyFitness</a> or <a href="{{ site.mapmyrun_url }}">MapMyRun</a>),
@@ -157,6 +157,18 @@ layout: default
             <p class="light">This is a hobby project.</p>
           </div>
         </div>
+
+        <div class="col s12 m6 l4 xl4">
+          <div class="icon-block">
+            <h2 class="center blue-text text-darken-4">
+              <a href="{{ site.app_issues }}">
+                <i class="material-icons">bug_report</i>
+              </a>
+            </h2>
+            <h5 class="center"><a href="{{ site.app_issues }}">Bug Reports of Feature Requests</a></h5>
+            <p class="light"><a href="{{ site.app_source_repo }}">The source code fo the application</a></p>
+          </div>
+        </div>
       </div>
 
     </div>
@@ -238,10 +250,13 @@ layout: default
 
   <div class="container">
     <div class="section">
-      <h5>Missing or Liked Features</h5>
+      <h5>Bugs or Missing Features</h5>
       <div class="row">
         <h5 class="header col s12 light">
-          <div class="pollly-embed" data-id="LavRoJ8W"></div>
+          Please report any application bugs or feature request <a href="mailto:{{ site.email }}">by email</a>
+          or directly to the <a href="{{ site.app_issues }}">application's GitHub repository</a>
+          if you have a GitHub account.
+          (For issues of this website you can use <a href="{{ site.website_issues }}">this GitHub repository</a>).
         </h5>
       </div>
     </div>

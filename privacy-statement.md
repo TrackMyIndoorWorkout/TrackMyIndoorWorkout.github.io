@@ -106,7 +106,7 @@ redirect_from:
 
   <div class="row">
     <div class="col s12">
-      The creator is not responsible for any damage or loss whatsoever caused by the app. The app doesn't have any guarantee about connecting to the bike or treadmill, recording, and uploading workouts. The Android ecosystem can be complex, and even simple things like not turning off battery optimization for the app or if it's background could cause problems. The bluetooth eco-system can be problematic as well.
+      The creator is not responsible for any damage or loss whatsoever caused by the app. The app doesn't have any guarantee about connecting to the bike or treadmill, recording, and uploading workouts. The Android ecosystem can be complex, and even simple things like not turning off battery optimization for the app or if it is in the background could cause problems. The bluetooth eco-system can be problematic as well.
     </div>
   </div>
 </div>

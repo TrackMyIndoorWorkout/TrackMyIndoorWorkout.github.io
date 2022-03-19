@@ -33,6 +33,7 @@ redirect_from:
         <li>The application stores athlete weight when it is configured. It is used for standard spin-down (calibration) protocol or for calculating expensed calories based on heart rate.</li>
         <li>The application stores athlete age, gender, VO2max when it is configured. It is used (and required) for calculating expensed calories based on heart rate.</li>
         <li>The application records calorie and power tunes to be able to provide the calorie and power tune feature benefiting the user.</li>
+        <li>The application may record debug data for debug purposes if the user explicitly opts-in in the Expert Preferences section. Debug log may contain crash call stacks, scanned device information, data packets received from other devices. The debug log is human readable and it can only leave the device if the user gives UI commands to export the contents. Even after the export it is up to the user to transfer the zipped log files to any destination.</li>
       </ul>
     </div>
   </div>
@@ -55,6 +56,7 @@ redirect_from:
         <li>Any calorie tune can be deleted frm the calorie tunes screen
         (accessible from the activities screen menu) by clicking on the thrashcan icon</li>
         <li>Athlete personal data (weight, age, gender, VO2max) can be changed in the settings any time. That may disable some capabilites though: spin-down will still function but the heart rate based calorie feature won't</li>
+        <li>All of the debug logs can be deleted with the related button click in the Expert Preferences</li>
       </ul>
     </div>
   </div>
@@ -67,17 +69,19 @@ redirect_from:
 
   <div class="row">
     <div class="col s12">
-      The application doesn't transmit any data without explicit user action. The two user actions are:
+      The application doesn't transmit any data without explicit user action. The three user actions are:
       <ol>
         <li>Uploading activity to Strava (or other portals when it'll be supported)</li>
       </ol>
       <ol>
         <li>Downloading activity as a file (FIT, TCX, migration CSV, or supported formats)</li>
       </ol>
+      <ol>
+        <li>Exporting recorded debug logs</li>
+      </ol>
     </div>
     <div class="col s12">
-      When information travels from the mobile app to Strava or data storage,
-      it is communicated through secure channels, but inherently the data is not encrypted.
+      When information travels from the mobile app to Strava or data storage, it is communicated through secure channels, but inherently the data is not encrypted. In case of data exports it is up to the user how data data is transferred later, this is out of the jurisdiction of the application.
     </div>
   </div>
 </div>

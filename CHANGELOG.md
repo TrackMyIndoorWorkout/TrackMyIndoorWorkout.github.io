@@ -3,6 +3,10 @@ layout: page
 title: ChangeLog
 permalink: /changelog/
 ---
+## 1.1.97
+
+* Bugfix: cure accidental double application of calorie / power tunes
+
 ## 1.1.96
 
 * Foundations for optional debug logging to help remote debugging issues or

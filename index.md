@@ -14,4 +14,7 @@ layout: home
 * [Schwinn 230](https://www.schwinnfitness.com/230/100932.html)
 * [CyclBar spinning](https://www.cyclebar.com/) studio's [Schwinn AC Performance Plus](https://www.amazon.com/AC-Performance-Plus-Indoor-Cycle/dp/B002KV942W) via the [MPower Echelon2 console's CSV file]({% post_url 2020-09-23-schwinn-ac-performance-plus-support %})
 * [Runn smart treadmill sensor (NPE Runn)](https://npe-inc.com/runn-smart-treadmill-sensor-2/)
+* [LifePro FlexStride Pro](https://lifeprofitness.com/products/flexstride-pro-calf-leg-foot-pedal-exerciser)
+* [Matrix TF50](https://matrixhomefitness.com/products/treadmill-tf50)
+* [Yesoul S3](https://www.yesoulfitness.com/shop/yesoul-s3-indoor-cycling-bike-black/)
 * Any Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bike, Treadmill, or Rower

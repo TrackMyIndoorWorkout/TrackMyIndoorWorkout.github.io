@@ -3,6 +3,10 @@ layout: page
 title: ChangeLog
 permalink: /changelog/
 ---
+## 1.1.99
+
+* Adding attributions link to About page.
+
 ## 1.1.98
 
 * Unit system will default to imperial only for US, UK, Myanmar and Liberia.

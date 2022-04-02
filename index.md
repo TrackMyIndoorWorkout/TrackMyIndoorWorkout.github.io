@@ -16,5 +16,5 @@ layout: home
 * [Runn smart treadmill sensor (NPE Runn)](https://npe-inc.com/runn-smart-treadmill-sensor-2/)
 * [LifePro FlexStride Pro](https://lifeprofitness.com/products/flexstride-pro-calf-leg-foot-pedal-exerciser)
 * [Matrix TF50](https://matrixhomefitness.com/products/treadmill-tf50)
-* [Yesoul S3](https://www.yesoulfitness.com/shop/yesoul-s3-indoor-cycling-bike-black/)
+* [Yesoul S3 coming soon...](https://www.yesoulfitness.com/shop/yesoul-s3-indoor-cycling-bike-black/)
 * A lot of Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

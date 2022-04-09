@@ -3,6 +3,13 @@ layout: page
 title: ChangeLog
 permalink: /changelog/
 ---
+## 1.1.100
+
+* Fixing manufacturer name check which fixes Yesoul S3 support as well (by Sebastian Kutschbach)
+* Revising some zone threshold and boundary defaults
+* Revising a few default zone colors to differ more by contrast / color
+* Making zone colors configurable (5 / 6 / 7 zones, light / dark theme, foreground / background)
+
 ## 1.1.99
 
 * Adding attributions link to About page.

@@ -9,8 +9,7 @@ permalink: /changelog/
 * Revising some zone threshold and boundary defaults
 * Revising a few default zone colors to differ more by contrast / color
 * Making zone colors configurable (5 / 6 / 7 zones, light / dark theme, foreground / background)
-* Making sport and device based leaderboards mutually exclusive. More info is coming and we won't
-  have space for both at the same time.
+* Making sport and device based leaderboards mutually exclusive. More info is coming and we won't have space for both at the same time.
 
 ## 1.1.99
 
@@ -18,10 +17,8 @@ permalink: /changelog/
 
 ## 1.1.98
 
-* Unit system will default to imperial only for US, UK, Myanmar and Liberia.
-  Every other country will default to metric upon the first start.
-* Further tuning of the data processing throttling logic. Please file an issue if you
-  come across any suspicious anomaly (such as stuck cumulative values, flickering).
+* Unit system will default to imperial only for US, UK, Myanmar and Liberia. Every other country will default to metric upon the first start.
+* Further tuning of the data processing throttling logic. Please file an issue if you come across any suspicious anomaly (such as stuck cumulative values, flickering).
 
 ## 1.1.97
 
@@ -29,8 +26,7 @@ permalink: /changelog/
 
 ## 1.1.96
 
-* Foundations for optional debug logging to help remote debugging issues or
-  supporting new fitness machines
+* Foundations for optional debug logging to help remote debugging issues or supporting new fitness machines
 * The app grew large enough with this feature that it became multi-dex
 
 ## 1.1.95
@@ -40,8 +36,7 @@ permalink: /changelog/
 
 ## 1.1.94
 
-* Changes towards proper Stages SB20 and Yesoul S3 support which can also
-  help with many other machines
+* Changes towards proper Stages SB20 and Yesoul S3 support which can also help with many other machines
 * Fix for 4x calories reading inflation of Schwinn AC Perf+ CSV imported workouts
 
 ## 1.1.93
@@ -56,9 +51,7 @@ permalink: /changelog/
 
 ## 1.1.92
 * Workout will only start when the first movement is sensed
-* Moving time is accounted for besides elapsed time and persisted. UI switch tells which one is
-  primarily preferred on the measurement screen and the activities list. The workout details
-  displays both moving and elapsed time if they differ.
+* Moving time is accounted for besides elapsed time and persisted. UI switch tells which one is primarily preferred on the measurement screen and the activities list. The workout details displays both moving and elapsed time if they differ.
 * Cross Trainer support fixes
 * Two column layout size adjustment
 * Workout migration import fix
@@ -94,8 +87,7 @@ permalink: /changelog/
 
 ## 1.1.86
 
-* Update the check-mark and open icons immediately when Strava upload finishes
-  (right now it requires the upload bottom shelf to be closed and reopened).
+* Update the check-mark and open icons immediately when Strava upload finishes (right now it requires the upload bottom shelf to be closed and reopened).
 * Fix activity timestamp problem of SUUNTO workout uploads.
 
 ## 1.1.85
@@ -119,8 +111,7 @@ permalink: /changelog/
 * Integration UX changes in concert with the new supported portals
 * Flutter API v2 upgrade for the file download module (share_files_and_screenshot_widgets)
 * Flutter API v2 upgrade for the bluetooth enable module (bluetooth_enable)
-* Fix: 10 second lag while uploading workout files, data connection checker module
-  (internet_connection_checker) main upgrade
+* Fix: 10 second lag while uploading workout files, data connection checker module (internet_connection_checker) main upgrade
 * Fix: custom data connection checking rules now apply
 * Fix: enforce GetX permanent flag to avoid eviction of services by SmartManagement
 * Fix: release version exception prevention by catches in flutter_blue fork
@@ -130,8 +121,7 @@ permalink: /changelog/
 * Adding compensation logic for (distance, calories, and elapsed time) consecutive workouts
 * Starting to introduce code for machine control features
 * Properly stopping workout automatically when Data Connection Watchdog is triggered
-* Trying to improve data connection for older Android devices. As a side effect the Bluetooth status
-  button is gone from the top right of the AppBar on the workout screen
+* Trying to improve data connection for older Android devices. As a side effect the Bluetooth status button is gone from the top right of the AppBar on the workout screen
 
 ## 1.1.81
 
@@ -141,27 +131,20 @@ permalink: /changelog/
 ## 1.1.80
 
 * Correcting Strava sync delay
-* Changing data connection check endpoints from Strava's Amazon AWS EC2 server IPs to default, which
-  means Google, CloudFlare, and OpenDNS DNS servers
+* Changing data connection check endpoints from Strava's Amazon AWS EC2 server IPs to default, which means Google, CloudFlare, and OpenDNS DNS servers
 * Fixing Schwinn 510u support, making manufacturer check more lenient (less stringent)
 
 ## 1.1.79
 
-* Transforming some colors (on the graph and on the track visualization) opaque for possible
-  speedup
+* Transforming some colors (on the graph and on the track visualization) opaque for possible speedup
 * Foundations for Cross Trainer / Elliptical support
-* Option to display distance in kilometers or yards by introducing "distance resolution" orthogonal
-  switch besides the unit system metric / imperial
+* Option to display distance in kilometers or yards by introducing "distance resolution" orthogonal switch besides the unit system metric / imperial
 
 ## 1.1.78
 
-* Adding back logic to infer sport by connecting to the device and deducting it from the
-  FTMS characteristics. Some consoles don't implement Advertisement Data's Service Data which
-  normally signals in a bitfield what type of machine it is
+* Adding back logic to infer sport by connecting to the device and deducting it from the FTMS characteristics. Some consoles don't implement Advertisement Data's Service Data which normally signals in a bitfield what type of machine it is
 * Plugin step version updates
-* Increase Schwinn IC4/IC8, BowFlex C6 default calorie factor from 1.4 to 3.6. This will result
-  in a closer measurement to the console. Any user who has a calorie tune established should delete
-  the tune or adjust it!
+* Increase Schwinn IC4/IC8, BowFlex C6 default calorie factor from 1.4 to 3.6. This will result in a closer measurement to the console. Any user who has a calorie tune established should delete the tune or adjust it!
 * Preparations for upcoming SUUNTO and Training Peaks integration
 
 ## 1.1.77
@@ -182,8 +165,7 @@ permalink: /changelog/
 
 ## 1.1.71
 
-* Display the sport icon for the fitness machines on the scan screen instead of the transmission
-  signal strength dB level
+* Display the sport icon for the fitness machines on the scan screen instead of the transmission signal strength dB level
 * Making scan result more compact (font size decrease)
 
 ## 1.1.70
@@ -214,10 +196,8 @@ permalink: /changelog/
 
 ## 1.1.67
 
-* Better UX when connecting (transitioning from the scanning screen to the recording):
-  displaying beating hour glass
-* Use FTMS Advertisement Data's Service Data to determine FTMS Machine type, so no pre-connection
-  needed any more for generic devices
+* Better UX when connecting (transitioning from the scanning screen to the recording): displaying beating hour glass
+* Use FTMS Advertisement Data's Service Data to determine FTMS Machine type, so no pre-connection needed any more for generic devices
 * Recognizing KayakPro devices also by "KP" bluetooth name prefix, not just "KayakPro"
 * Fixing jumping dot color on the HRM management bottom sheet
 * Decrease artificial intermittent delay during bluetooth initialization hoping for shorter splash
@@ -225,14 +205,12 @@ permalink: /changelog/
 
 ## 1.1.66
 
-* Fix bug with Simpler UI turned on while being on light theme. Also happened with old Android
-  devices by default.
+* Fix bug with Simpler UI turned on while being on light theme. Also happened with old Android devices by default.
 
 ## 1.1.65
 
 * Running Cadence Sensor support progress
-* Preventing the display of extreme high pace (very low speed) on the recording screen (essentially
-  utilizing slow speed settings there as well)
+* Preventing the display of extreme high pace (very low speed) on the recording screen (essentially utilizing slow speed settings there as well)
 * Scan logic change: no more periodic polling of connected devices. We keep track of them
 * Increase minimum scanning duration to 6 seconds
 * Adding support to NPE Runn treadmill smart device
@@ -257,8 +235,7 @@ permalink: /changelog/
 ## 1.1.61
 
 * Changes to permission and bluetooth enablement check and help logic during startup
-* Remove Exit button (cannot really kill the app due to technical limitations and the app staying
-  in the background may keep holding paired devices and preventing them from discovery)
+* Remove Exit button (cannot really kill the app due to technical limitations and the app staying in the background may keep holding paired devices and preventing them from discovery)
 * Step version bump of plugins
 
 ## 1.1.60
@@ -304,8 +281,7 @@ permalink: /changelog/
 
 ## 1.1.49
 
-* Adding Exit button to the Find Devices and Activites screen (unfortunately it does not really
-  kill the app all the way)
+* Adding Exit button to the Find Devices and Activites screen (unfortunately it does not really kill the app all the way)
 
 ## 1.1.46
 
@@ -378,8 +354,7 @@ permalink: /changelog/
 * Remove portrait restriction to prepare for split screen support
 * Bluetooth state and location permission handling changes
 * Full screen mode during workout measurement to avoid accidental navigation
-* Remove compression switch for export. Gzip confused users, only allow uncompressed downloads,
-  uploads will still use gzip for Strava
+* Remove compression switch for export. Gzip confused users, only allow uncompressed downloads, uploads will still use gzip for Strava
 
 ## 1.1.27
 
@@ -434,9 +409,7 @@ permalink: /changelog/
 ## 1.1.18
 
 * Build number 27
-* Don't generate the cycling into the velodrome to avoid Strava KOM takeovers. Placing rides onto
-  a running track (no cycling segments there) and similarly the run into the velodrome (no run
-  segments)
+* Don't generate the cycling into the velodrome to avoid Strava KOM takeovers. Placing rides onto a running track (no cycling segments there) and similarly the run into the velodrome (no run segments)
 * Allow resize of the graphs by long press. Saved into the settings
 * Adding zone boundary lines
 * Remove Y axis labels

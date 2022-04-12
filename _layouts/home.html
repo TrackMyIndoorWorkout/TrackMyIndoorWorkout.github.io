@@ -14,11 +14,11 @@ layout: default
             Track My Indoor Workout is a <a href="{{ site.app_source_repo }}">free and open source</a>
             application to record stationary workouts of smart fitness machines via Bluetooth Low Energy
             protocol. Workouts can have GPS routes - generated based on speed - and can be uploaded to
-            <a href="{{ site.strava_url }}">Strava</a>, Under Armour
-            (meaning <a href="{{ site.mapmyfitness_url }}">MapMyFitness</a> or 
-            <a href="{{ site.mapmyrun_url }}">MapMyRun</a>),
             <a href="{{ site.sports_tracker_url }}">SUUNTO</a>,
+            <a href="{{ site.strava_url }}">Strava</a>,
             <a href="{{ site.training_peaks_url }}">Training Peaks</a>,
+            Under Armour (meaning <a href="{{ site.mapmyfitness_url }}">MapMyFitness</a> or 
+            <a href="{{ site.mapmyrun_url }}">MapMyRun</a>),
             or can be downloaded as
             <a href="https://developer.garmin.com/fit/protocol/">FIT</a>,
             <a href="https://en.wikipedia.org/wiki/Training_Center_XML">TCX</a>, CSV, or JSON
@@ -79,33 +79,6 @@ layout: default
         <div class="col s12 m6 l4 xl4">
           <div class="icon-block">
             <h2 class="center blue-text text-darken-4">
-              <a href="{{ site.strava_url }}">
-                <img class="responsive-img svg-logo" src="img/strava.svg">
-              </a>
-            </h2>
-            <h5 class="center">Strava integration</h5>
-            <p class="light">Upload workouts to Strava</p>
-          </div>
-        </div>
-
-        <div class="col s12 m6 l4 xl4">
-          <div class="icon-block">
-            <h2 class="center blue-text text-darken-4">
-              <a href="{{ site.mapmyfitness_url }}">
-                <img class="responsive-img svg-logo" src="img/under-armour-2line.svg">
-              </a>
-            </h2>
-            <h5 class="center">Under Armour integration</h5>
-            <p class="light">Upload workouts to
-              <a href="{{ site.mapmyfitness_url }}">MapMyFitness</a> or
-              <a href="{{ site.mapmyrun_url }}">MapMyRun</a>
-            </p>
-          </div>
-        </div>
-
-        <div class="col s12 m6 l4 xl4">
-          <div class="icon-block">
-            <h2 class="center blue-text text-darken-4">
               <a href="{{ site.suunto_url }}">
                 <img class="responsive-img svg-logo" src="img/suunto.svg">
               </a>
@@ -120,6 +93,18 @@ layout: default
         <div class="col s12 m6 l4 xl4">
           <div class="icon-block">
             <h2 class="center blue-text text-darken-4">
+              <a href="{{ site.strava_url }}">
+                <img class="responsive-img svg-logo" src="img/strava.svg">
+              </a>
+            </h2>
+            <h5 class="center">Strava integration</h5>
+            <p class="light">Upload workouts to Strava</p>
+          </div>
+        </div>
+
+        <div class="col s12 m6 l4 xl4">
+          <div class="icon-block">
+            <h2 class="center blue-text text-darken-4">
               <a href="{{ site.training_peaks_url }}">
                 <img class="responsive-img svg-logo" src="img/training-peaks-2line.svg">
               </a>
@@ -127,6 +112,21 @@ layout: default
             <h5 class="center">Training Peaks integration</h5>
             <p class="light">Upload workouts to
               <a href="{{ site.training_peaks_url }}">Training Peaks</a>
+            </p>
+          </div>
+        </div>
+
+        <div class="col s12 m6 l4 xl4">
+          <div class="icon-block">
+            <h2 class="center blue-text text-darken-4">
+              <a href="{{ site.mapmyfitness_url }}">
+                <img class="responsive-img svg-logo" src="img/under-armour-2line.svg">
+              </a>
+            </h2>
+            <h5 class="center">Under Armour integration</h5>
+            <p class="light">Upload workouts to
+              <a href="{{ site.mapmyfitness_url }}">MapMyFitness</a> or
+              <a href="{{ site.mapmyrun_url }}">MapMyRun</a>
             </p>
           </div>
         </div>

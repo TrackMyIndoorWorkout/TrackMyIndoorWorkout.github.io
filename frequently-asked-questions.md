@@ -11,6 +11,28 @@ redirect_from:
 <div class="section">
     <div class="row">
         <div class="col s12">
+            Q: Why does the application ask for location permission?
+        </div>
+        <div class="col s12">
+            A: The application DOES NOT COLLECT any location data. Location permission is required because of technical quirks for communication with Bluetooth Low Energy Fitness Machines. In the future on Android 12 and later this won't be needed. Your privacy is very important to me, which is one reason why the app does not have a back-end / "mothership". Everything what the app does is in response to an action you gave, you are in total control.  The application is also open source so you can check exactly what it is doing if you are in doubt.
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="row">
+        <div class="col s12">
+            Q: Why does the application ask for storage (file) permissions?
+        </div>
+        <div class="col s12">
+            A: So the app does not have its own back-end / "mothership" (server where your data would be stored). All data is stored only locally on the specific device you recorded an activity with. Therefore it's an essential feature to upload the workouts to fitness protals or download them in various formats (like TCX, FIT), but of course only if you wish to. The target location of your download is chosen by you, but it can be a cloud storage (Google Drive, OneDrive, etc.) or your local device's storage so you can forward it to wherever you want to, it's all up to you. But because it can be your local storage, the app asks for storage permissions. The app does not care and never touches any of your files except what you explicitly instructed it to. Your privacy is very important to me, which is one reason why the app does not have a back-end / "mothership". Everything what the app does is in response to an action you gave, you are in total control. The application is also open source so you can check exactly what it is doing if you are in doubt.
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="row">
+        <div class="col s12">
             Q: I cannot upload the downloaded files to my choice of workout portal. Why is that?
         </div>
         <div class="col s12">

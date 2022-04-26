@@ -3,6 +3,14 @@ layout: post
 title: Frequently Asked Questions
 date: 2020-09-22 12:00:00
 ---
+##### Q: Why does the application ask for location permission?
+
+A: The application DOES NOT COLLECT any location data. Location permission is required because of technical quirks for communication with Bluetooth Low Energy Fitness Machines. In the future on Android 12 and later this won't be needed. Your privacy is very important to me, which is one reason why the app does not have a back-end / "mothership". Everything what the app does is in response to an action you gave, you are in total control.  The application is also open source so you can check exactly what it is doing if you are in doubt.
+
+##### Q: Why does the application ask for storage (file) permissions?
+
+A: So the app does not have its own back-end / "mothership" (server where your data would be stored). All data is stored only locally on the specific device you recorded an activity with. Therefore it's an essential feature to upload the workouts to fitness protals or download them in various formats (like TCX, FIT), but of course only if you wish to. The target location of your download is chosen by you, but it can be a cloud storage (Google Drive, OneDrive, etc.) or your local device's storage so you can forward it to wherever you want to, it's all up to you. But because it can be your local storage, the app asks for storage permissions. The app does not care and never touches any of your files except what you explicitly instructed it to. Your privacy is very important to me, which is one reason why the app does not have a back-end / "mothership". Everything what the app does is in response to an action you gave, you are in total control. The application is also open source so you can check exactly what it is doing if you are in doubt.
+
 ##### Q: I cannot upload the downloaded files to my choice of workout portal. Why is that?
 
 A: The application compresses the files when uploading them to Strava to shorten the upload time and save bandwidth. Your downloaded files might be compressed too: you can recognize that if the file extension is ending with '.gz', like '.TCX.gz' or '.FIT.gz.'. Although workout portals may accept compressed uploads programmatically, for manual uploads they require uncompressed files. On Windows operating system [7-Zip](https://www.7-zip.org/) or [Total Commander](https://www.ghisler.com/) is able to help you with GZIP decompression.

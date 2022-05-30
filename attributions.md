@@ -61,7 +61,7 @@ permalink: /attributions/
           René Grassegger,
           Rob Wolff,
           Robert S,
-          Ryan Crognale
+          Ryan Crognale,
           Scott Knecht,
           Sean Kelly,
           Sonja Russell,

@@ -75,7 +75,7 @@ permalink: /attributions/
 <div class="section">
   <div class="row">
     <div class="col s12">
-      Sorry if I left you out, email me.
+      Sorry if I left you out or misplaced you, email me please.
     </div>
   </div>
 </div>

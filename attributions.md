@@ -17,6 +17,7 @@ permalink: /attributions/
         <li>Corentin Leman (Matrix treadmill and recumbent stationary bike)</li>
         <li>Géza Lévai (Schwinn 510u)</li>
         <li>Grayson Bourne (KayakPro kayak / canoe / swim ergometers)</li>
+        <li>Kooiboy (Schwinn 570u and thus Schwinn 170 and 270)</li>
         <li>Kurt Ramsey (Stages SB20, LifePro FlexStride Pro, Schwinn 270)</li>
         <li>Sebastian Kutschbach (Yesoul S3)</li>
       </ul>
@@ -48,7 +49,6 @@ permalink: /attributions/
         <li>John Klamm</li>
         <li>Julia Tuttle</li>
         <li>Julie Lucero</li>
-        <li>Kooiboy</li>
         <li>Leon Sam</li>
         <li>Mark Glenn</li>
         <li>u/mataushas</li>

@@ -20,6 +20,7 @@ permalink: /attributions/
         <li>Kooiboy (Schwinn 570u and thus Schwinn 170 and 270)</li>
         <li>Kurt Ramsey (Stages SB20, LifePro FlexStride Pro, Schwinn 270)</li>
         <li>Sebastian Kutschbach (Yesoul S3)</li>
+        <li><a href="https://github.com/ursoft/connectivity-samples/blob/main/BluetoothLeGatt/Application/src/main/java/com/example/android/bluetoothlegatt/BluetoothLeService.java">Юрий Першин (Yuri Pershin) / ursoft (Schwinn 170 / 270)</a></li>
       </ul>
     </div>
   </div>

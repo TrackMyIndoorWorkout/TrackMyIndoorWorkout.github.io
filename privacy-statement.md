@@ -11,7 +11,7 @@ redirect_from:
 <div class="section">
   <div class="row">
     <div class="col s12">
-      Your privacy is important to Track My Indoor Workout and it's creator:
+      Your privacy is important to {{ site.application_name }} and it's creator:
       Csaba Consulting. This privacy policy provides information about
       the personal information the application may collect or pass along, and the
       ways in which the related services use that personal information.
@@ -118,8 +118,7 @@ redirect_from:
 
   <div class="row">
     <div class="col s12">
-      Your privacy is very important to us! If you have any questions about this privacy policy or Track My Indoor Workout's treatment of your personal
-      information, please contact through <a href="https://csaba.page/">Author's website</a>
+      Your privacy is very important to us! If you have any questions about this privacy policy or {{ site.application_name }}'s treatment of your personal information, please contact through <a href="https://csaba.page/">Author's website</a>
     </div>
   </div>
 </div>

@@ -5,8 +5,8 @@
 
         <ul class="right hide-on-med-and-down">
             <li class="no-bullet"><a href="{{ "/" | relative_url }}">Home </a></li>
-            <li class="no-bullet"><a href="{{ site.play_store_url }}"><img class="responsive-img menu-logo desktop-menu-logo-margin" src="img/google-play-store.svg"></a></li>
-            <li class="no-bullet"><a href="{{ site.galaxy_store_url }}"><img class="responsive-img menu-logo desktop-menu-logo-margin" src="img/Galaxy_Store_logo.png"></a></li>
+            <li class="no-bullet"><a href="{{ site.play_store_url }}"><img class="responsive-img menu-logo desktop-menu-logo-margin" src="/img/google-play-store.svg"></a></li>
+            <li class="no-bullet"><a href="{{ site.galaxy_store_url }}"><img class="responsive-img menu-logo desktop-menu-logo-margin" src="/img/Galaxy_Store_logo.png"></a></li>
             {% if page_paths %}
                 {% for path in page_paths %}
                     {% assign my_page = site.pages | where: "path", path | first %}
@@ -28,8 +28,8 @@
 
         <ul id="nav-mobile" class="side-nav">
             <li class="no-bullet"><a href="{{ "/" | relative_url }}">Home</a></li>
-            <li class="no-bullet"><a href="{{ site.play_store_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="img/Google_Play_Store_badge_EN.svg"></a></li>
-            <li class="no-bullet"><a href="{{ site.galaxy_store_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="img/GalaxyStore_English.png"></a></li>
+            <li class="no-bullet"><a href="{{ site.play_store_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/Google_Play_Store_badge_EN.svg"></a></li>
+            <li class="no-bullet"><a href="{{ site.galaxy_store_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/GalaxyStore_English.png"></a></li>
             {% if page_paths %}
                 {% for path in page_paths %}
                     {% assign my_page = site.pages | where: "path", path | first %}

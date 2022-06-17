@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Known Issues
+short_title: Issues
 permalink: /known-issues/
 ---
 

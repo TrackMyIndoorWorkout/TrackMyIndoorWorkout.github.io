@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ChangeLog
+short_title: Changes
 permalink: /changelog/
 ---
 ## 1.1.104

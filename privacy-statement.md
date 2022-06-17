@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+short_title: Privacy
 permalink: /privacy/
 redirect_from:
   - /privacypolicy/

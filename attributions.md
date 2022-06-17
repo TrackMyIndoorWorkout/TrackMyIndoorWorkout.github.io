@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Attributions
+short_title: Attrib.
 permalink: /attributions/
 ---
 

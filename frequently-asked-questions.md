@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+short_title: FAQ
 permalink: /faq/
 redirect_from:
   - /frequently-asked-questions/

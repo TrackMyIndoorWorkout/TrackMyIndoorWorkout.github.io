@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="229.01001"
+   height="229"
+   viewBox="0 0 229.01001 229"
+   version="1.1"
+   id="svg54"
+   sodipodi:docname="huawei-app-gallery-badge.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs58" />
+  <sodipodi:namedview
+     id="namedview56"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <path
+     d="M 164.58,0 H 64.429997 C 17.259997,0 -2.746582e-6,17.25 -2.746582e-6,64.43 V 164.57 C -2.746582e-6,211.75 17.259997,229 64.429997,229 H 164.55 c 47.17,0 64.46,-17.25 64.46,-64.43 V 64.43 C 229.01,17.25 211.75,0 164.58,0 Z"
+     fill="#c8102e"
+     fill-rule="evenodd"
+     id="path48" />
+  <path
+     d="m 45.379997,114.5 h 6 v 30 h -6 v -12.2 h -13.75 v 12.2 h -6.07 v -30 h 6.07 v 12.1 h 13.75 z m 34.22,17.14 c 0,4.87 -2.41,7.47 -6.8,7.47 -4.39,0 -6.85,-2.68 -6.85,-7.68 V 114.5 h -6.07 v 17.12 c 0,8.42 4.68,13.25 12.83,13.25 8.15,0 13,-4.92 13,-13.5 V 114.5 h -6.07 z M 149.81,135.09 142.98,114.5 h -5 l -6.79,20.59 -6.58,-20.59 h -6.46 l 10.43,30 h 5 l 6.8,-19.7 6.85,19.7 h 5.07 l 10.41,-30 h -6.33 z m 23.82,-3.54 h 11 v -5.45 h -11 V 120 h 16 v -5.5 h -22 v 29.9 h 22.62 v -5.45 H 173.6 Z m 23.86,12.85 h 6 v -29.9 h -6 z m -99.810003,-6.21 -2.72,6.23 h -6.21 L 101.91,114.5 h 5.36 l 13.11,29.94 h -6.37 l -2.63,-6.23 z m 2.26,-5.4 H 109.12 l -4.6,-10.71 z"
+     fill="#ffffff"
+     id="path50" />
+  <path
+     d="M 114.5,76.4 A 38.16,38.16 0 0 1 76.379997,38.28 h 5.38 a 32.74,32.74 0 0 0 65.470003,0 h 5.38 A 38.16,38.16 0 0 1 114.5,76.4 Z"
+     fill="#ffffff"
+     id="path52" />
+</svg>

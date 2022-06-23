@@ -31,6 +31,7 @@
             <li class="no-bullet"><a href="{{ "/" | relative_url }}">Home</a></li>
             <li class="no-bullet"><a href="{{ site.play_store_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/Google_Play_Store_badge_EN.svg"></a></li>
             <li class="no-bullet"><a href="{{ site.galaxy_store_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/GalaxyStore_English.png"></a></li>
+            <li class="no-bullet"><a href="{{ site.huawei_appgallery_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/huawei-app-gallery-badge.svg"></a></li>
             {% if page_paths %}
                 {% for path in page_paths %}
                     {% assign my_page = site.pages | where: "path", path | first %}

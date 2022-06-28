@@ -21,7 +21,7 @@ permalink: /attributions/
         <li>Kooiboy (Schwinn 570u and thus Schwinn 170 and 270)</li>
         <li>Kurt Ramsey (Stages SB20, LifePro FlexStride Pro, Schwinn 270)</li>
         <li>Sebastian Kutschbach (Yesoul S3)</li>
-        <li><a href="https://github.com/ursoft/connectivity-samples/blob/da91a864a0ba2321aadc44d0ff01caf8c36d3594/BluetoothLeGatt/Application/src/main/java/com/example/android/bluetoothlegatt/BluetoothLeService.java#L202">Юрий Першин (Yuri Pershin) / ursoft (Schwinn 170 / 270)</a></li>
+        <li><a href="https://github.com/ursoft/ANT_Libraries/blob/e122c007f5e1935a9b11c05e601a71f2992bad45/ANT_DLL/WROOM_esp32/WROOM_esp32.ino#L526">Юрий Першин (Yuri Pershin) / ursoft (Schwinn 170 / 270)</a></li>
         <li>Paul O'Keefe (Mr. Captain Rowing Machines)</li>
       </ul>
     </div>

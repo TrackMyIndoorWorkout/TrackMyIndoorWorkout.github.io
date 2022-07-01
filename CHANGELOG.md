@@ -4,6 +4,15 @@ title: ChangeLog
 short_title: Changes
 permalink: /changelog/
 ---
+## 1.1.111
+
+* Fixing broken OAuth integration flows (Strava, SUUNTO, UA, TP)
+* Make Huawei Privacy Policy popup unavoidable
+
+## 1.1.110
+
+* Version bump for Huawei AppGallery submission.
+
 ## 1.1.109
 
 * Circuit workout mode: being able to switch between multiple fitness machines while 

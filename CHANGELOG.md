@@ -4,6 +4,11 @@ title: ChangeLog
 short_title: Changes
 permalink: /changelog/
 ---
+## 1.1.113
+
+* Fixing Stages SB20 calorie counting (other machines might be affected too)
+* Fixing cut-off action icons (at certain resolutions) on the Activities screen
+
 ## 1.1.112
 
 * Fixing Stages SB 20 speed acquisition / display

@@ -22,4 +22,5 @@ layout: home
 * [Schwinn 570u](https://global.schwinnfitness.com/en/570u/100529.html)
 * [Schwinn 570r](https://global.schwinnfitness.com/en/570r/100531.html)
 * [Mr. Captain rowing machines with Bluetooth monitor](https://mr-captain.com/collections/rowing-machine)
+* [Stages SB20](https://stagescycling.com/en_us/stages-sb20-smart-bike-indoor-cycle)
 * A lot of Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

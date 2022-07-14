@@ -120,7 +120,7 @@ redirect_from:
 
   <div class="row">
     <div class="col s12">
-      Your privacy is very important to us! If you have any questions about this privacy policy or {{ site.application_name }}'s treatment of your personal information, please contact through <a href="https://csaba.page/">Author's website</a>
+      Your privacy is very important to us! If you have any questions about this privacy policy or {{ site.application_name }}'s treatment of your personal information, please contact by email at the bottom of this page or through the <a href="https://csaba.page/">author's website</a>
     </div>
   </div>
 </div>

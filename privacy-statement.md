@@ -12,10 +12,7 @@ redirect_from:
 <div class="section">
   <div class="row">
     <div class="col s12">
-      Your privacy is important to {{ site.application_name }} and it's creator:
-      Csaba Consulting. This privacy policy provides information about
-      the personal information the application may collect or pass along, and the
-      ways in which the related services use that personal information.
+      Your privacy is important to {{ site.application_name }} and it's creator: {{ site.author }} of {{ site.company }}. This privacy policy provides information about the personal information the application may collect or pass along, and the ways in which the related services use that personal information.
     </div>
   </div>
 </div>
@@ -107,7 +104,11 @@ redirect_from:
 
   <div class="row">
     <div class="col s12">
-      The creator is not responsible for any damage or loss caused by the app. The app doesn't have any guarantee about connecting to the bike or treadmill, recording, and uploading workouts. The Android ecosystem can be complex, and even simple things like not turning off battery optimization for the app or if it is in the background could cause problems. The bluetooth eco-system can be problematic as well.
+      The creator is not responsible for any damage or loss caused by the app. Please be mindful about your workout, the fitness machine and your
+      surrounding while using the app. The creatior is not repsonsible for any injuries or physical damages.
+    </div>
+    <div class="col s12">
+      The app doesn't have any guarantee about connecting to the bike or treadmill, recording, and uploading workouts. The software ecosystem can be complex, and even simple things like not turning off battery optimization for the app or if it is in the background could cause problems. The bluetooth technology stack can be problematic as well.
     </div>
   </div>
 </div>
@@ -115,7 +116,7 @@ redirect_from:
 <div class="divider"></div>
 
 <div class="section">
-  <h5>Contact Csaba Consulting</h5>
+  <h5>Contact {{ site.author }} of {{ site.company }}</h5>
 
   <div class="row">
     <div class="col s12">
@@ -132,7 +133,7 @@ redirect_from:
   <div class="row">
     <div class="col s12">
       This document was created using a Contractology template available at <a href="http://www.freenetlaw.com/">http://www.freenetlaw.com</a>.
-      Csaba Consulting customized that template to reflect the particular application instead of a website,
+      {{ site.author }} of {{ site.company }} customized that template to reflect the particular application instead of a website,
       and transformed it into HTML5/markdown format. The modified source is available on 
       <a href="https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout.github.io/blob/master/privacy-statement.md">GitHub</a>
     </div>

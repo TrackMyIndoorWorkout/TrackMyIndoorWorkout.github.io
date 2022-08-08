@@ -4,6 +4,13 @@ title: ChangeLog
 short_title: Changes
 permalink: /changelog/
 ---
+## 1.1.114
+* Galaxy App Store find: orientation change disturbs opened circular menu
+* Instant save feature (right after workout, FIT format)
+* Technogym Skillrow / Aquafeel strokes per minute fix
+* Generic FTMS rower defaults to rowing instead of kayaking
+* Android 13 (SDK level 33)
+
 ## 1.1.113
 
 * Fixing Stages SB20 calorie counting (other machines might be affected too)
@@ -12,7 +19,7 @@ permalink: /changelog/
 ## 1.1.112
 
 * Fixing Stages SB 20 speed acquisition / display
-* Screen rotation artifact workarounds on many screens
+* Galaxy App Store find: Screen rotation artifact workarounds on many screens
 * Replacing overlay tutorial / help with legend modal dialogs
 * Android 12L SDK level targeting and package version bumps
 

@@ -29,6 +29,7 @@ sports_tracker_url: https://sports-tracker.com/
 training_peaks_url: https://app.trainingpeaks.com/
 mr_captain_url: https://mr-captain.com/
 mr_captain_rower_url: https://mr-captain.com/collections/rowing-machine
+technogym_skillrow_url: https://www.technogym.com/us/skillrow.html
 
 exclude:
   - "LICENSE"

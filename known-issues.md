@@ -10,6 +10,14 @@ permalink: /known-issues/
 <div class="section">
     <div class="row">
         <div class="col s12">
+            The application is now available on at least three application marketplaces: Google Play Store, Samsung Galaxy Store, and Huawei AppGallery. If someone switches stores that will be considered as a reinstall from the mobile operating system point of view. Meaning that the current app will be uninstalled (all of its current data is deleted) and the other app is installed. This is true if you hop app stores in any direction, so be careful! Always sync your workouts if data loss would be unwanted for you.
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="row">
+        <div class="col s12">
             Some handheld devices might present a blank white screen after the app starts and don't advance to the actual scanning page. There can be multiple reasons for this, some of which I couldn't solve yet. In some cases that happens only for the first start after a fresh install. Therefore it could be worth trying simply to kill the app and start it again. If the behavior remains please email me your configuration: phone model, Android version, do you have bluetooth enabled and if the app has permissions.
         </div>
     </div>

@@ -4,6 +4,12 @@ title: ChangeLog
 short_title: Changes
 permalink: /changelog/
 ---
+## 1.1.119
+* Foundations for Concept2 rower support (experimental only, includes refactor)
+* Data processing bugfix
+* Attempting to fix heart rate reading flicker
+* Package version upgrades
+
 ## 1.1.118
 * Stages SC3 support (SIC2 console relays power meter (and also HRM if paired));
   speed and distance is estimated

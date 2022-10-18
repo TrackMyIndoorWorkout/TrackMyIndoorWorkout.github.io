@@ -46,6 +46,7 @@ permalink: /attributions/
         <li>Christian Fees</li>
         <li>Dan Walkes</li>
         <li>David Veneski</li>
+        <li>Denise Hadibeere</li>
         <li>Edward CS O'Connor</li>
         <li>Enrique Limon</li>
         <li>Geert Annys</li>

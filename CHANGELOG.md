@@ -4,7 +4,7 @@ title: ChangeLog
 short_title: Changes
 permalink: /changelog/
 ---
-## 1.1.122
+## 1.1.123
 * Further changes to avoid heart rate glitching (when the heart rate monitor is paired with the app)
 * Avoiding speed sensor intermittent drops to 0
 * Avoiding cadence sensor glitches

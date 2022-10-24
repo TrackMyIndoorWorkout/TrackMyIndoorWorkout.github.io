@@ -14,6 +14,7 @@ permalink: /attributions/
     </div>
     <div class="col s12">
       <ul>
+        <li>Aric Mine (Wahoo KICKR v5)</li>
         <li>Attila Tóth (KayakPro kayak ergometer)</li>
         <li>Corentin Leman (Matrix treadmill and recumbent stationary bike)</li>
         <li>Géza Lévai (Schwinn 510u)</li>

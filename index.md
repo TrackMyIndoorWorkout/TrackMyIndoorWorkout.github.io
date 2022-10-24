@@ -28,4 +28,5 @@ layout: home
 * [Stages SC Series Power Meter](https://stagescycling.com/en_us/stages-power-meter-for-sc-series-bikes-4) and most Bluetooth Cycling Power Meter compatible power meters (note: speed and distance is only estimated if there's no speed / wheel cadence sensor available)
 * [Wahoo RPM Cycling Cadence Sensor](https://www.wahoofitness.com/devices/bike-sensors/wahoo-rpm-cadence-sensor) and most Bluetooth CSC compatible pedal cadence sensors
 * [Wahoo RPM Cycling Speed Sensor](https://www.wahoofitness.com/devices/bike-sensors/bluetooth-speed-sensor) and most Bluetooth CSC compatible speed + wheel cadence sensors (note 1: does not provide true speed if mounted on an indoor bike flywheel axle, note 2: power is estimated if no power meter present)
+* [Wahoo KICKR Smart Trainer](https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-buy-v5) FTMS Indoor Bike support (no Wahoo control support); tested with V5 firmware 4.2.3 and 4.2.8, should work with V6 or other FTMS compatible versions as well
 * Most Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

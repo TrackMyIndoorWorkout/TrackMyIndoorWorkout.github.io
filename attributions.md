@@ -13,21 +13,60 @@ permalink: /attributions/
       Fitness Machine Support helpers:
     </div>
     <div class="col s12">
-      <ul>
-        <li>Aric Mine <tt><i>Wahoo KICKR v5</i></tt></li>
-        <li>Attila Tóth <tt><i>KayakPro kayak ergometer</i></tt></li>
-        <li>Brian Colligan <tt><i>Schwinn IC4 with HRM based calorie counting</i></tt></li>
-        <li>Corentin Leman <tt><i>Matrix treadmill and recumbent stationary bike</i></tt></li>
-        <li>Géza Lévai <tt><i>Schwinn 510u</i></tt></li>
-        <li>Grayson Bourne <tt><i>KayakPro kayak / canoe / swim ergometers</i></tt></li>
-        <li>Kooiboy <tt><i>Schwinn 570u and thus Schwinn 170 and 270</i></tt></li>
-        <li>Kurt Ramsey <tt><i>Stages SB20, LifePro FlexStride Pro, Schwinn 270</i></tt></li>
-        <li>Sebastian Kutschbach <tt><i>Yesoul S3</i></tt></li>
-        <li><a href="https://github.com/ursoft/ANT_Libraries/blob/e122c007f5e1935a9b11c05e601a71f2992bad45/ANT_DLL/WROOM_esp32/WROOM_esp32.ino#L526">Юрий Першин (Yuri Pershin) / ursoft <tt><i>Schwinn 170 / 270</i></a></tt></li>
-        <li>Paul O'Keefe <tt><i>Mr. Captain Rowing Machines</i></tt></li>
-        <li>Riya Dashoriya <tt><i>Technogym Skillrow heart rate</i></tt></li>
-        <li>Seungki (Eric) Cho <tt><i>Wahoo KICKR v5 @ SDC22</i></tt></li>
-      </ul>
+      <table border="0">
+        <tr>
+          <td>Aric Mine</td>
+          <td>Wahoo KICKR v5</td>
+        </tr>
+        <tr>
+          <td>Attila Tóth</td>
+          <td>KayakPro kayak ergometer</td>
+        </tr>
+        <tr>
+          <td>Brian Colligan</td>
+          <td>Schwinn IC4 with HRM based calorie counting</td>
+        </tr>
+        <tr>
+          <td>Corentin Leman</td>
+          <td>Matrix treadmill and recumbent stationary bike</td>
+        </tr>
+        <tr>
+          <td>Géza Lévai</td>
+          <td>Schwinn 510u</td>
+        </tr>
+        <tr>
+          <td>Grayson Bourne</td>
+          <td>KayakPro kayak / canoe / swim ergometers</td>
+        </tr>
+        <tr>
+          <td>Kooiboy</td>
+          <td>Schwinn 570u and thus Schwinn 170 and 270</td>
+        </tr>
+        <tr>
+          <td>Kurt Ramsey</td>
+          <td>Stages SB20, LifePro FlexStride Pro, Schwinn 270</td>
+        </tr>
+        <tr>
+          <td>Sebastian Kutschbach</td>
+          <td>Yesoul S3</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/ursoft/ANT_Libraries/blob/e122c007f5e1935a9b11c05e601a71f2992bad45/ANT_DLL/WROOM_esp32/WROOM_esp32.ino#L526">Юрий Першин (Yuri Pershin) / ursoft</a></td>
+          <td>Schwinn 170 / 270</td>
+        </tr>
+        <tr>
+          <td>Paul O'Keefe</td>
+          <td>Mr. Captain Rowing Machines</td>
+        </tr>
+        <tr>
+          <td>Riya Dashoriya</td>
+          <td>Technogym Skillrow heart rate</td>
+        </tr>
+        <tr>
+          <td>Seungki (Eric) Cho</td>
+          <td>Wahoo KICKR v5 @ SDC22</td>
+        </tr>
+      </table>
     </div>
   </div>
 </div>

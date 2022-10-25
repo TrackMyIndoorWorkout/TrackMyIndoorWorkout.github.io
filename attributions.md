@@ -14,18 +14,19 @@ permalink: /attributions/
     </div>
     <div class="col s12">
       <ul>
-        <li>Aric Mine <i>Wahoo KICKR v5</i></li>
-        <li>Attila Tóth <i>KayakPro kayak ergometer</i></li>
-        <li>Corentin Leman <i>Matrix treadmill and recumbent stationary bike</i></li>
-        <li>Géza Lévai <i>Schwinn 510u</i></li>
-        <li>Grayson Bourne <i>KayakPro kayak / canoe / swim ergometers</i></li>
-        <li>Kooiboy <i>Schwinn 570u and thus Schwinn 170 and 270</i></li>
-        <li>Kurt Ramsey <i>Stages SB20, LifePro FlexStride Pro, Schwinn 270</i></li>
-        <li>Sebastian Kutschbach <i>Yesoul S3</i></li>
-        <li><a href="https://github.com/ursoft/ANT_Libraries/blob/e122c007f5e1935a9b11c05e601a71f2992bad45/ANT_DLL/WROOM_esp32/WROOM_esp32.ino#L526">Юрий Першин (Yuri Pershin) / ursoft <i>Schwinn 170 / 270</i></a></li>
-        <li>Paul O'Keefe <i>Mr. Captain Rowing Machines</i></li>
-        <li>Riya Dashoriya <i>Technogym Skillrow heart rate</i></li>
-        <li>Seungki (Eric) Cho <i>Wahoo KICKR v5 @ SDC22</i></li>
+        <li>Aric Mine <tt><i>Wahoo KICKR v5</i></tt></li>
+        <li>Attila Tóth <tt><i>KayakPro kayak ergometer</i></tt></li>
+        <li>Brian Colligan <tt><i>Schwinn IC4 with HRM based calorie counting</i></tt></li>
+        <li>Corentin Leman <tt><i>Matrix treadmill and recumbent stationary bike</i></tt></li>
+        <li>Géza Lévai <tt><i>Schwinn 510u</i></tt></li>
+        <li>Grayson Bourne <tt><i>KayakPro kayak / canoe / swim ergometers</i></tt></li>
+        <li>Kooiboy <tt><i>Schwinn 570u and thus Schwinn 170 and 270</i></tt></li>
+        <li>Kurt Ramsey <tt><i>Stages SB20, LifePro FlexStride Pro, Schwinn 270</i></tt></li>
+        <li>Sebastian Kutschbach <tt><i>Yesoul S3</i></tt></li>
+        <li><a href="https://github.com/ursoft/ANT_Libraries/blob/e122c007f5e1935a9b11c05e601a71f2992bad45/ANT_DLL/WROOM_esp32/WROOM_esp32.ino#L526">Юрий Першин (Yuri Pershin) / ursoft <tt><i>Schwinn 170 / 270</i></a></tt></li>
+        <li>Paul O'Keefe <tt><i>Mr. Captain Rowing Machines</i></tt></li>
+        <li>Riya Dashoriya <tt><i>Technogym Skillrow heart rate</i></tt></li>
+        <li>Seungki (Eric) Cho <tt><i>Wahoo KICKR v5 @ SDC22</i></tt></li>
       </ul>
     </div>
   </div>
@@ -42,7 +43,6 @@ permalink: /attributions/
         <li>Ana Isabel Barrantes</li>
         <li>Andrew Ziem</li>
         <li>Bill Schatzow</li>
-        <li>Brian Colligan</li>
         <li>Cheryl Crouse</li>
         <li>Christian Derungs</li>
         <li>Christian Fees</li>

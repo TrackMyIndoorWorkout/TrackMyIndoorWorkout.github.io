@@ -31,6 +31,10 @@ permalink: /attributions/
           <td>Matrix treadmill and recumbent stationary bike</td>
         </tr>
         <tr>
+          <td>Denise Hadibeere</td>
+          <td>Yesoul S3 + HRM</td>
+        </tr>
+        <tr>
           <td>Géza Lévai</td>
           <td>Schwinn 510u</td>
         </tr>
@@ -87,7 +91,6 @@ permalink: /attributions/
         <li>Christian Fees</li>
         <li>Dan Walkes</li>
         <li>David Veneski</li>
-        <li>Denise Hadibeere</li>
         <li>Edward CS O'Connor</li>
         <li>Enrique Limon</li>
         <li>Geert Annys</li>

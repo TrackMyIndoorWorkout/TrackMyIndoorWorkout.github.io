@@ -10,7 +10,7 @@ permalink: /attributions/
 <div class="section">
   <div class="row">
     <div class="col s12">
-      Fitness Machine Support helpers:
+      Bluetooth protocol helpers:
     </div>
     <div class="col s12">
       <table border="0">
@@ -25,6 +25,10 @@ permalink: /attributions/
         <tr>
           <td>Brian Colligan</td>
           <td>Schwinn IC4 with HRM based calorie counting</td>
+        </tr>
+        <tr>
+          <td><a heef="http://npyu.org/">Cheehan Weereratne</a></td>
+          <td>Polar H7 with Precor Spinner Chrono Power</td>
         </tr>
         <tr>
           <td>Corentin Leman</td>

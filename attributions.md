@@ -102,6 +102,7 @@ permalink: /attributions/
         <li>John Klamm</li>
         <li>Julia Tuttle</li>
         <li>Julie Lucero</li>
+        <li>Константин Ш</li>
         <li>Leon Sam</li>
         <li>Mark Glenn</li>
         <li>u/mataushas</li>

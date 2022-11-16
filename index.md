@@ -29,5 +29,5 @@ layout: home
 * [Wahoo RPM Cycling Cadence Sensor](https://www.wahoofitness.com/devices/bike-sensors/wahoo-rpm-cadence-sensor) and most Bluetooth CSC compatible pedal cadence sensors
 * [Wahoo RPM Cycling Speed Sensor](https://www.wahoofitness.com/devices/bike-sensors/bluetooth-speed-sensor) and most Bluetooth CSC compatible speed + wheel cadence sensors (note 1: does not provide true speed if mounted on an indoor bike flywheel axle, note 2: power is estimated if no power meter present)
 * [Wahoo KICKR Smart Trainer](https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-buy-v5) FTMS Indoor Bike support (no Wahoo control support); tested with V5 firmware 4.2.3 and 4.2.8, should work with V6 or other FTMS compatible versions as well
-* [Bancon AS-5 (BC-B599) Zwift bike](https://onebancon.com/products/a5-s-heavy-flywheel-spin-bike) confimred by JK Tan
+* [Bancon AS-5 (BC-B599) Zwift bike](https://onebancon.com/products/a5-s-heavy-flywheel-spin-bike) confirmed by JK Tan
 * Most Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

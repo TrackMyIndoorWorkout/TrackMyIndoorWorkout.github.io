@@ -12,6 +12,17 @@ redirect_from:
 <div class="section">
     <div class="row">
         <div class="col s12">
+            Q: Why only the active / moving time is displayed during the workout? Can I change that?
+        </div>
+        <div class="col s12">
+            A: The application by default displays the so-called moving time and does not count those seconds when the workout is stopped. After the workout is over both the moving (or active) and the total elapsed time are displayed (separately) on the activity list screen's detail cards. Fortunately this behavior is configurable: under the "Workout" configuration section the "TIme Display Mode" is "Moving" by default. If you switch that to "Elapsed" then the total time (which includes pauses as well) will be displayed.
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="row">
+        <div class="col s12">
             Q: Why does the application ask for location permission?
         </div>
         <div class="col s12">

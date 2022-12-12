@@ -3,6 +3,10 @@ layout: post
 title: Frequently Asked Questions
 date: 2020-09-22 12:00:00
 ---
+##### Q: Why only the active / moving time is displayed during the workout? Can I change that?
+
+A: The application by default displays the so-called moving time and does not count those seconds when the workout is stopped. After the workout is over both the moving (or active) and the total elapsed time are displayed (separately) on the activity list screen's detail cards. Fortunately this behavior is configurable: under the "Workout" configuration section the "TIme Display Mode" is "Moving" by default. If you switch that to "Elapsed" then the total time (which includes pauses as well) will be displayed.
+
 ##### Q: Why does the application ask for location permission?
 
 A: The application DOES NOT COLLECT any location data. Location permission is required because of technical quirks for communication with Bluetooth Low Energy Fitness Machines. In the future on Android 12 and later this won't be needed. Your privacy is very important to me, which is one reason why the app does not have a back-end / "mothership". Everything what the app does is in response to an action you gave, you are in total control.  The application is also open source so you can check exactly what it is doing if you are in doubt.

@@ -10,6 +10,14 @@ permalink: /known-issues/
 <div class="section">
     <div class="row">
         <div class="col s12">
+            Some users reported exorbitant speeds and distances with certain bike trainers (Hammer and Elite Aleno for example). I was not able to determine the cause of that yet and I'm waiting for a debug log to solve this issue. My application has a logging option for debug purposes under the Expert preferences. Contact me if you can help.
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="row">
+        <div class="col s12">
             The application is now available on at least three application marketplaces: Google Play Store, Samsung Galaxy Store, and Huawei AppGallery. If someone switches stores that will be considered as a reinstall from the mobile operating system point of view. Meaning that the current app will be uninstalled (all of its current data is deleted) and the other app is installed. This is true if you hop app stores in any direction, so be careful! Always sync your workouts if data loss would be unwanted for you.
         </div>
     </div>

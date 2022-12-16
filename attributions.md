@@ -27,7 +27,7 @@ permalink: /attributions/
           <td><a href="https://www.schwinnfitness.com/ic4/100873.html">Schwinn IC4</a> with HRM based calorie counting</td>
         </tr>
         <tr>
-          <td><a heef="http://npyu.org/">Cheehan Weereratne</a></td>
+          <td><a href="https://npyu.org/">Cheehan Weereratne</a></td>
           <td>Polar H7 with Precor Spinner Chrono Power</td>
         </tr>
         <tr>

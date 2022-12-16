@@ -16,7 +16,7 @@ permalink: /attributions/
       <table border="0">
         <tr>
           <td>Aric Mine</td>
-          <td>Wahoo KICKR v5</td>
+          <td><a href="https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-buy-v5">Wahoo KICKR v5</a></td>
         </tr>
         <tr>
           <td>Attila Tóth</td>
@@ -76,7 +76,7 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Seungki (Eric) Cho</td>
-          <td>Wahoo KICKR v5 @ SDC22</td>
+          <td><a href="https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-buy-v5">Wahoo KICKR v5</a> <a href="https://developer.samsung.com/conference/sdc22">@ SDC22</a></td>
         </tr>
       </table>
     </div>

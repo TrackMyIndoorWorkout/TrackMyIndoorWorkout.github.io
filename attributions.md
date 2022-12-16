@@ -24,7 +24,7 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Brian Colligan</td>
-          <td>Schwinn IC4 with HRM based calorie counting</td>
+          <td><a href="https://www.schwinnfitness.com/ic4/100873.html">Schwinn IC4</a> with HRM based calorie counting</td>
         </tr>
         <tr>
           <td><a heef="http://npyu.org/">Cheehan Weereratne</a></td>
@@ -36,11 +36,11 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Denise Hadibeere</td>
-          <td>Yesoul S3 + HRM</td>
+          <td><a href="https://www.yesoulfitness.com/shop/yesoul-s3-indoor-cycling-bike-black/">Yesoul S3</a> + HRM</td>
         </tr>
         <tr>
           <td>Géza Lévai</td>
-          <td>Schwinn 510u</td>
+          <td><a href="https://global.schwinnfitness.com/en/510u/i100931.html">Schwinn 510u</a></td>
         </tr>
         <tr>
           <td>Grayson Bourne</td>
@@ -48,15 +48,15 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Kooiboy</td>
-          <td>Schwinn 570u and thus Schwinn 170 and 270</td>
+          <td><a href="https://global.schwinnfitness.com/en/570u/100529.html">Schwinn 570u</a> and thus Schwinn 170 and 270</td>
         </tr>
         <tr>
           <td>Kurt Ramsey</td>
-          <td>Stages SB20, LifePro FlexStride Pro, Schwinn 270</td>
+          <td><a href="https://stagescycling.com/en_us/stages-sb20-smart-bike-indoor-cycle">Stages SB20</a>, <a href="https://lifeprofitness.com/products/flexstride-pro-calf-leg-foot-pedal-exerciser">LifePro FlexStride Pro</a>, <a href="https://www.schwinnfitness.com/270/100515.html">Schwinn 270</a></td>
         </tr>
         <tr>
           <td>Sebastian Kutschbach</td>
-          <td>Yesoul S3</td>
+          <td><a href="https://www.yesoulfitness.com/shop/yesoul-s3-indoor-cycling-bike-black/">Yesoul S3</a></td>
         </tr>
         <tr>
           <td>Steve Tingay</td>
@@ -64,15 +64,15 @@ permalink: /attributions/
         </tr>
         <tr>
           <td><a href="https://github.com/ursoft/ANT_Libraries/blob/e122c007f5e1935a9b11c05e601a71f2992bad45/ANT_DLL/WROOM_esp32/WROOM_esp32.ino#L526">Юрий Першин (Yuri Pershin) / ursoft</a></td>
-          <td>Schwinn 170 / 270</td>
+          <td><a href="https://www.schwinnfitness.com/170/100513.html">Schwinn 170</a> / <a href="https://www.schwinnfitness.com/270/100515.html">Schwinn 270</a></td>
         </tr>
         <tr>
           <td>Paul O'Keefe</td>
-          <td>Mr. Captain Rowing Machines</td>
+          <td><a href="https://mr-captain.com/collections/rowing-machine">Mr. Captain Rowing Machines</a></td>
         </tr>
         <tr>
           <td>Riya Dashoriya</td>
-          <td>Technogym Skillrow heart rate</td>
+          <td><a href="https://www.technogym.com/us/skillrow.html">Technogym Skillrow</a> heart rate</td>
         </tr>
         <tr>
           <td>Seungki (Eric) Cho</td>

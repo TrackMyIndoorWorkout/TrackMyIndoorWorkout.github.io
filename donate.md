@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Attributions
-short_title: Attrib.
-permalink: /attributions/
+title: Donate
+short_title: Donate
+permalink: /donate/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
@@ -44,7 +44,7 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Grayson Bourne</td>
-          <td><a href="https://kayakpro.com/">KayakPro kayak / canoe / dragon boat / SUP / swim ergometers</a></td>
+          <td>KayakPro kayak / canoe / swim ergometers</td>
         </tr>
         <tr>
           <td>Kooiboy</td>
@@ -57,10 +57,6 @@ permalink: /attributions/
         <tr>
           <td>Sebastian Kutschbach</td>
           <td>Yesoul S3</td>
-        </tr>
-        <tr>
-          <td>Steve Tingay</td>
-          <td><a href="https://kayakpro.com/">KayakPro kayak / canoe / dragon boat / SUP / swim ergometers</a></td>
         </tr>
         <tr>
           <td><a href="https://github.com/ursoft/ANT_Libraries/blob/e122c007f5e1935a9b11c05e601a71f2992bad45/ANT_DLL/WROOM_esp32/WROOM_esp32.ino#L526">Юрий Першин (Yuri Pershin) / ursoft</a></td>
@@ -77,6 +73,10 @@ permalink: /attributions/
         <tr>
           <td>Seungki (Eric) Cho</td>
           <td>Wahoo KICKR v5 @ SDC22</td>
+        </tr>
+        <tr>
+          <td>Viktor Glatz</td>
+          <td>Garmin Cycling Speed and Cadence sensors and Old Danube kayak ergometer</td>
         </tr>
       </table>
     </div>

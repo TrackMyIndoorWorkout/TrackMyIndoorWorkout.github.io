@@ -22,9 +22,9 @@ layout: home
 * [Schwinn 570u](https://global.schwinnfitness.com/en/570u/100529.html)
 * [Schwinn 570r](https://global.schwinnfitness.com/en/570r/100531.html)
 * [Mr. Captain rowing machines with Bluetooth monitor](https://mr-captain.com/collections/rowing-machine)
-* [Stages SB20](https://stagescycling.com/en_us/stages-sb20-smart-bike-indoor-cycle)
+* [Stages SB20]({{ site.stages_sb20_url }})
 * [Technogym Skillrow / Aquafeel](https://www.technogym.com/us/skillrow.html)
-* [Stages SC3](https://stagescycling.com/en_us/stages-indoor-cycle-sc3-2) / [SIC2 console](https://manuals.stagesindoorcycling.com/en/indoor-console/sic2/)
+* [Stages SC3]({{ site.stages_sc3_url }}) / [SIC2 console]({{ site.stages_sic2_url }})
 * [Stages SC Series Power Meter](https://stagescycling.com/en_us/stages-power-meter-for-sc-series-bikes-4) and most Bluetooth Cycling Power Meter compatible power meters (note: speed and distance is only estimated if there's no speed / wheel cadence sensor available)
 * [Wahoo RPM Cycling Cadence Sensor](https://www.wahoofitness.com/devices/bike-sensors/wahoo-rpm-cadence-sensor) and most Bluetooth CSC compatible pedal cadence sensors
 * [Wahoo RPM Cycling Speed Sensor](https://www.wahoofitness.com/devices/bike-sensors/bluetooth-speed-sensor) and most Bluetooth CSC compatible speed + wheel cadence sensors (note 1: does not provide true speed if mounted on an indoor bike flywheel axle, note 2: power is estimated if no power meter present)

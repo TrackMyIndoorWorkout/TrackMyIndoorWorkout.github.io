@@ -52,7 +52,7 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Kurt Ramsey</td>
-          <td><a href="https://stagescycling.com/en_us/stages-sb20-smart-bike-indoor-cycle">Stages SB20</a>, <a href="https://lifeprofitness.com/products/flexstride-pro-calf-leg-foot-pedal-exerciser">LifePro FlexStride Pro</a>, <a href="https://www.schwinnfitness.com/270/100515.html">Schwinn 270</a></td>
+          <td><a href="{{ site.stages_sb20_url }}">Stages SB20</a>, <a href="https://lifeprofitness.com/products/flexstride-pro-calf-leg-foot-pedal-exerciser">LifePro FlexStride Pro</a>, <a href="https://www.schwinnfitness.com/270/100515.html">Schwinn 270</a></td>
         </tr>
         <tr>
           <td>Sebastian Kutschbach</td>

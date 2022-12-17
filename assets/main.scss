@@ -20,6 +20,12 @@ img.svg-logo {
   max-height: 76px;
 }
 
+.btn-wide {
+  width: 100%;
+  white-space: nowrap;
+  padding: 0.1rem 0.3rem;
+}
+
 img.menu-logo {
   height: 32px;
 }
@@ -30,4 +36,8 @@ img.desktop-menu-logo-margin {
 
 img.mobile-menu-logo-margin {
   margin-top: 8px;
+}
+
+img.limit-height-lg {
+  max-height: 48px;
 }

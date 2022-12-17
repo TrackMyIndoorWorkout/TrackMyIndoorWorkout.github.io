@@ -1,56 +1,38 @@
 <nav class="blue darken-3" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}"><i class="material-icons md-48">directions_bike</i></a>
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
+  <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}"><i class="material-icons md-48">directions_bike</i></a>
+  {% assign default_paths = site.pages | map: "path" %}
+  {% assign page_paths = site.header_pages | default: default_paths %}
 
-        <ul class="right hide-on-med-and-down">
-            <li class="no-bullet"><a href="{{ "/" | relative_url }}">Home </a></li>
-            <li class="no-bullet"><a href="{{ site.play_store_url }}"><img class="responsive-img menu-logo desktop-menu-logo-margin" src="/img/google-play-store.svg"></a></li>
-            <li class="no-bullet"><a href="{{ site.galaxy_store_url }}"><img class="responsive-img menu-logo desktop-menu-logo-margin" src="/img/Galaxy_Store_logo.png"></a></li>
-            <li class="no-bullet"><a href="{{ site.huawei_appgallery_url }}"><img class="responsive-img menu-logo desktop-menu-logo-margin" src="/img/huawei-app-gallery-logo.svg"></a></li>
-            {% if page_paths %}
-                {% for path in page_paths %}
-                    {% assign my_page = site.pages | where: "path", path | first %}
-                    {% if my_page.title %}
-                    <li class="no-bullet"><a href="{{ my_page.url | relative_url }}">{{ my_page.short_title | escape }}</a></li>
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-            <li class="no-bullet">
-              <form action="https://www.paypal.com/donate" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_donations" />
-                <input type="hidden" name="business" value="5RV59VYDBAL52" />
-                <input type="hidden" name="currency_code" value="USD" />
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-                <img class="responsive-img" alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-              </form>
-            </li>
-        </ul>
+    <ul class="right hide-on-med-and-down">
+      <li class="no-bullet"><a href="{{ "/" | relative_url }}">Home </a></li>
+      <li class="no-bullet"><a href="{{ site.play_store_url }}"><img class="responsive-img menu-logo desktop-menu-logo-margin" src="/img/google-play-store.svg"></a></li>
+      <li class="no-bullet"><a href="{{ site.galaxy_store_url }}"><img class="responsive-img menu-logo desktop-menu-logo-margin" src="/img/Galaxy_Store_logo.png"></a></li>
+      <li class="no-bullet"><a href="{{ site.huawei_appgallery_url }}"><img class="responsive-img menu-logo desktop-menu-logo-margin" src="/img/huawei-app-gallery-logo.svg"></a></li>
+      {% if page_paths %}
+        {% for path in page_paths %}
+          {% assign my_page = site.pages | where: "path", path | first %}
+          {% if my_page.title and my_page.menu_presence != "skip" %}
+            <li class="no-bullet"><a href="{{ my_page.url | relative_url }}">{{ my_page.short_title | escape }}</a></li>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </ul>
 
-        <ul id="nav-mobile" class="side-nav">
-            <li class="no-bullet"><a href="{{ "/" | relative_url }}">Home</a></li>
-            <li class="no-bullet"><a href="{{ site.play_store_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/Google_Play_Store_badge_EN.svg"></a></li>
-            <li class="no-bullet"><a href="{{ site.galaxy_store_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/GalaxyStore_English.png"></a></li>
-            <li class="no-bullet"><a href="{{ site.huawei_appgallery_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/huawei-app-gallery-badge.svg"></a></li>
-            {% if page_paths %}
-                {% for path in page_paths %}
-                    {% assign my_page = site.pages | where: "path", path | first %}
-                    {% if my_page.title %}
-                    <li class="no-bullet"><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-            <li class="no-bullet">
-              <form action="https://www.paypal.com/donate" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_donations" />
-                <input type="hidden" name="business" value="5RV59VYDBAL52" />
-                <input type="hidden" name="currency_code" value="USD" />
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-                <img class="responsive-img" alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-              </form>
-            </li>
-        </ul>        
+    <ul id="nav-mobile" class="side-nav">
+      <li class="no-bullet"><a href="{{ "/" | relative_url }}">Home</a></li>
+      <li class="no-bullet"><a href="{{ site.play_store_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/Google_Play_Store_badge_EN.svg"></a></li>
+      <li class="no-bullet"><a href="{{ site.galaxy_store_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/GalaxyStore_English.png"></a></li>
+      <li class="no-bullet"><a href="{{ site.huawei_appgallery_url }}"><img class="responsive-img menu-logo mobile-menu-logo-margin" src="/img/huawei-app-gallery-badge.svg"></a></li>
+      {% if page_paths %}
+        {% for path in page_paths %}
+          {% assign my_page = site.pages | where: "path", path | first %}
+          {% if my_page.title and my_page.menu_presence != "skip" %}
+            <li class="no-bullet"><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </ul>        
 
-        <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
-    </div>
+    <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+  </div>
 </nav>

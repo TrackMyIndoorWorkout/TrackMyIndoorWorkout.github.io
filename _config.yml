@@ -30,6 +30,11 @@ training_peaks_url: https://app.trainingpeaks.com/
 mr_captain_url: https://mr-captain.com/
 mr_captain_rower_url: https://mr-captain.com/collections/rowing-machine
 technogym_skillrow_url: https://www.technogym.com/us/skillrow.html
+by_me_a_coffee_url: https://www.buymeacoffee.com/tocsa
+ko_fi_me_url: https://Ko-fi.com/tocsa
+venmo_url: https://venmo.com/code?user_id=2114670181744640341&created=1670822626
+cash_app_url: https://cash.app/$CsabaToth?qr=1
+zelle_url: https://enroll.zellepay.com/qr-codes?data=eyJuYW1lIjoiQ1NBQkEiLCJhY3Rpb24iOiJwYXltZW50IiwidG9rZW4iOiJjc2FiYS50b3RoLnVzQG91dGxvb2suY29tIn0=
 
 exclude:
   - "LICENSE"

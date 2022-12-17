@@ -17,6 +17,7 @@ website_issues: https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout.git
 play_store_url: https://play.google.com/store/apps/details?id=dev.csaba.track_my_indoor_exercise
 galaxy_store_url: https://galaxy.store/tmiw
 huawei_appgallery_url: https://appgallery.cloud.huawei.com/ag/n/app/C106464631?channelId=app_website&referrer=https%3A%2F%2Ftracmyindoorworkout.github.io%2F&id=c50a17eaffa34e1f9699157b5d2a190b&s=812550EDCEE476DDC6A041F2DADEF2245CD128C41F98CD61D9D5EEEBBBAD0FFF&detailType=0&v=&callType=AGDLINK&installType=0000
+kayakpro_site_url: https://kayakpro.com/
 kayakpro_url: https://www.kayakpro.com/kayakcanoe/kayak-genesis-port-smart-console/
 swimfast_url: https://www.kayakpro.com/swimfast/
 speedstroke_url: https://www.kayakpro.com/speedstrokepro/genesis-port-smart-console/
@@ -41,6 +42,15 @@ stages_sb20_url: https://stagescycling.com/en_us/stages-sb20-smart-bike-indoor-c
 wahoo_kickr_url: https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-buy-v5
 wahoo_rpm_speed_sensor_url: https://www.wahoofitness.com/devices/bike-sensors/bluetooth-speed-sensor
 wahoo_rpm_cadence_sensor_url: https://www.wahoofitness.com/devices/bike-sensors/wahoo-rpm-cadence-sensor
+schwinn_ic4_url: https://www.schwinnfitness.com/ic4/100873.html
+schwinn_ic8_url: https://global.schwinnfitness.com/en/ic8/100893.html
+bowflex_c6_url: https://www.bowflex.com/bikes/c6/100894.html
+schwinn_510u_url: https://global.schwinnfitness.com/en/510u/i100931.html
+schwinn_170_url: https://www.schwinnfitness.com/170/100513.html
+schwinn_270_url: https://www.schwinnfitness.com/270/100515.html
+schwinn_570u_url: https://global.schwinnfitness.com/en/570u/100529.html
+yesoul_s3_url: https://www.yesoulfitness.com/shop/yesoul-s3-indoor-cycling-bike-black/
+lifepro_flexstride_pro_url: https://lifeprofitness.com/products/flexstride-pro-calf-leg-foot-pedal-exerciser
 
 exclude:
   - "LICENSE"

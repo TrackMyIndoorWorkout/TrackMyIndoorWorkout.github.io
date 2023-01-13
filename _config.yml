@@ -51,6 +51,7 @@ schwinn_270_url: https://www.schwinnfitness.com/270/100515.html
 schwinn_570u_url: https://global.schwinnfitness.com/en/570u/100529.html
 yesoul_s3_url: https://www.yesoulfitness.com/shop/yesoul-s3-indoor-cycling-bike-black/
 lifepro_flexstride_pro_url: https://lifeprofitness.com/products/flexstride-pro-calf-leg-foot-pedal-exerciser
+apk_pure_url: https://m.apkpure.com/track-my-indoor-workout/dev.csaba.track_my_indoor_exercise
 
 exclude:
   - "LICENSE"

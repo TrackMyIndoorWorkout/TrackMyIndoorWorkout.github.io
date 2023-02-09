@@ -59,6 +59,10 @@ permalink: /attributions/
           <td><a href="{{ site.stages_sb20_url }}">Stages SB20</a>, <a href="{{ site.lifepro_flexstride_pro_url }}">LifePro FlexStride Pro</a>, <a href="{{ site.schwinn_270_url }}">Schwinn 270</a></td>
         </tr>
         <tr>
+          <td>roeland4</td>
+          <td>Virtufit Ultimate Pro 2 rower</td>
+        </tr>
+        <tr>
           <td>Sebastian Kutschbach</td>
           <td><a href="{{ site.yesoul_s3_url }}">Yesoul S3</a></td>
         </tr>

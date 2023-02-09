@@ -39,6 +39,10 @@ permalink: /attributions/
           <td><a href="{{ site.yesoul_s3_url }}">Yesoul S3</a> + HRM</td>
         </tr>
         <tr>
+          <td>Firdhaus Nawawi</td>
+          <td><a href="{{ site.yesoul_s3_url }}">Yesoul S3</a> and Magene Speed and Cadence Sensors</td>
+        </tr>
+        <tr>
           <td>Géza Lévai</td>
           <td><a href="{{ site.schwinn_510u_url }}">Schwinn 510u</a></td>
         </tr>

@@ -40,7 +40,7 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Firdhaus Nawawi</td>
-          <td><a href="{{ site.yesoul_s3_url }}">Yesoul S3</a> (with Huawei console) and <a href="{{ site.magene_csc_url }}">Magene cycling speed and cadence sensors</a></td>
+          <td><a href="{{ site.yesoul_s3_url }}">Yesoul S3</a> (with Huawei console) and <a href="{{ site.magene_csc_url }}">Magene Cycling Speed and Cadence Sensors</a></td>
         </tr>
         <tr>
           <td>Géza Lévai</td>
@@ -85,6 +85,10 @@ permalink: /attributions/
         <tr>
           <td>Seungki (Eric) Cho</td>
           <td><a href="{{ site.wahoo_kickr_url }}">Wahoo KICKR v5</a> <a href="https://developer.samsung.com/conference/sdc22">@ SDC22</a></td>
+        </tr>
+        <tr>
+          <td>Viktor Glatz</td>
+          <td><a href="{{ site.garmin_csc_url }}">Garmin Cycling Speed and Cadence Sensors</a></td>
         </tr>
       </table>
     </div>

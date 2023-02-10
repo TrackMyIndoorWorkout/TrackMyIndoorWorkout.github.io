@@ -4,6 +4,16 @@ title: ChangeLog
 short_title: Changes
 permalink: /changelog/
 ---
+## 1.1.136
+* Supporting Virtufit Ultimate Pro 2i rower (XEBEX console)
+* Confirmed Magene cycling speed and cadence sensor sensor
+* Workaround Android 13 glitch causing some devices to not Bluetooth names
+  (Particularly certain Yesoul S3 which have Huawei console and not Fujian)
+* Per metric control for coloring by zone
+* Several fixes to coloring by zone
+* Upgrading Flutter version
+* Upgrading numerous Flutter plugins
+
 ## 1.1.135
 * Determine CSC sensor type (cadence / speed / both) by pre-connecting and polling the feature endpoint
 * Better support for FTMS machines which don't report their type in the Advertisement service data

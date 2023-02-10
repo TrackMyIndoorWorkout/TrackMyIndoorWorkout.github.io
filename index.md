@@ -30,4 +30,6 @@ layout: home
 * [Wahoo RPM Cycling Speed Sensor]({{ site.wahoo_rpm_speed_sensor_url }}) and most Bluetooth CSC compatible speed + wheel cadence sensors (note 1: does not provide true speed if mounted on an indoor bike flywheel axle, note 2: power is estimated if no power meter present)
 * [Wahoo KICKR Smart Trainer]({{ site.wahoo_kickr_url }}) FTMS Indoor Bike support (no Wahoo control support); tested with V5 firmware 4.2.3 and 4.2.8, should work with V6 or other FTMS compatible versions as well
 * [Bancon AS-5 (BC-B599) Zwift bike](https://onebancon.com/products/a5-s-heavy-flywheel-spin-bike) confirmed by JK Tan
+* [Virtufit Ultimate Pro 2i rower]({{ site.virtufit_up2i_url }})
+* [Magene cycling apeed and cadence sensors]({{ site.magene_csc_url }})
 * Most Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

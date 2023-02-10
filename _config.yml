@@ -52,6 +52,8 @@ schwinn_570u_url: https://global.schwinnfitness.com/en/570u/100529.html
 yesoul_s3_url: https://www.yesoulfitness.com/shop/yesoul-s3-indoor-cycling-bike-black/
 lifepro_flexstride_pro_url: https://lifeprofitness.com/products/flexstride-pro-calf-leg-foot-pedal-exerciser
 apk_pure_url: https://m.apkpure.com/track-my-indoor-workout/dev.csaba.track_my_indoor_exercise
+virtufit_up2i_url: https://www.coolblue.nl/en/product/870498/virtufit-ultimate-pro-2i.html
+magene_csc_url: https://www.magene.com/product_s3.html
 
 exclude:
   - "LICENSE"

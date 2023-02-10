@@ -40,7 +40,7 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Firdhaus Nawawi</td>
-          <td><a href="{{ site.yesoul_s3_url }}">Yesoul S3</a> and Magene Speed and Cadence Sensors</td>
+          <td><a href="{{ site.yesoul_s3_url }}">Yesoul S3</a> (with Huawei console) and <a href="{{ site.magene_csc_url }}">Magene cycling speed and cadence sensors</a></td>
         </tr>
         <tr>
           <td>Géza Lévai</td>
@@ -60,7 +60,7 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>roeland4</td>
-          <td>Virtufit Ultimate Pro 2 rower</td>
+          <td><a href="{{ site.virtufit_up2i_url }}">Virtufit Ultimate Pro 2i rower</a></td>
         </tr>
         <tr>
           <td>Sebastian Kutschbach</td>

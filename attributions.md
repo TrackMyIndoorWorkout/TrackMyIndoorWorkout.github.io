@@ -15,12 +15,16 @@ permalink: /attributions/
     <div class="col s12">
       <table border="0">
         <tr>
+          <td>Angus Black</td>
+          <td><a href="{{ site.xoss_vortex_url }}">Xoss Vortex Speed and Cadence Sensors</a></td>
+        </tr>
+        <tr>
           <td>Aric Mine</td>
           <td><a href="{{ site.wahoo_kickr_url }}">Wahoo KICKR v5</a></td>
         </tr>
         <tr>
           <td>Attila Tóth</td>
-          <td>KayakPro kayak ergometer</td>
+          <td><a href="{{ site.kayakpro_site_url }}">KayakPro kayak ergometer</a></td>
         </tr>
         <tr>
           <td>Brian Colligan</td>

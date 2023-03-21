@@ -55,6 +55,7 @@ apk_pure_url: https://m.apkpure.com/track-my-indoor-workout/dev.csaba.track_my_i
 virtufit_up2i_url: https://www.coolblue.nl/en/product/870498/virtufit-ultimate-pro-2i.html
 magene_csc_url: https://www.magene.com/product_s3.html
 garmin_csc_url: https://www.garmin.com/en-US/p/641221
+xoss_vortex_url: https://xoss.co/products/xoss-bike-cadence-and-speed-sensor-vortex-wireless-ipx7-waterproof-300-hours-dual-modes-bike-sensor-ant-bluetooth-4-0-compatible-for-cycling-computer
 
 exclude:
   - "LICENSE"

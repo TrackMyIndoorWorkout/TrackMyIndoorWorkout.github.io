@@ -34,4 +34,5 @@ layout: home
 * [Virtufit Ultimate Pro 2i rower]({{ site.virtufit_up2i_url }})
 * [Magene Cycling Speed and Cadence Sensors]({{ site.magene_csc_url }})
 * [Xoss Vortex Speed and Cadence Sensors]({{ site.xoss_vortex_url }})
+* [Merach MR-667 Spin Bike]({{ site.merach_mr_667_url }})
 * Most Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

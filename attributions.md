@@ -96,7 +96,7 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Viktor Glatz</td>
-          <td><a href="{{ site.garmin_csc_url }}">Garmin Cycling Speed and Cadence Sensors</a></td>
+          <td><a href="{{ site.old_danube_url }}">Old Danube kayak/canoe ergometer</a> and <a href="{{ site.garmin_csc_url }}">Garmin Cycling Speed and Cadence Sensors</a></td>
         </tr>
       </table>
     </div>

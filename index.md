@@ -35,4 +35,5 @@ layout: home
 * [Magene Cycling Speed and Cadence Sensors]({{ site.magene_csc_url }})
 * [Xoss Vortex Speed and Cadence Sensors]({{ site.xoss_vortex_url }})
 * [Merach MR-667 Spin Bike]({{ site.merach_mr_667_url }})
+* [Old Danube kayak/canoe ergometer]({{ site.old_danube_url }})
 * Most Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

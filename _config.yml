@@ -57,6 +57,7 @@ magene_csc_url: https://www.magene.com/product_s3.html
 garmin_csc_url: https://www.garmin.com/en-US/p/641221
 xoss_vortex_url: https://xoss.co/products/xoss-bike-cadence-and-speed-sensor-vortex-wireless-ipx7-waterproof-300-hours-dual-modes-bike-sensor-ant-bluetooth-4-0-compatible-for-cycling-computer
 merach_mr_667_url: https://merachfitness.com/products/mr-667-spin-bike
+old_danube_url: https://olddanube.com/shop/
 
 exclude:
   - "LICENSE"

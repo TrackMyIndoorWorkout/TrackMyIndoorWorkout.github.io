@@ -55,6 +55,10 @@ permalink: /attributions/
           <td><a href="{{ site.kayakpro_site_url }}">KayakPro kayak / canoe / dragon boat / SUP / swim ergometers</a></td>
         </tr>
         <tr>
+          <td>Jean Caziewski</td>
+          <td><a href="{{ site.merach_mr_667_url }}">Merach MR-667 Spin Bike</a></td>
+        </tr>
+        <tr>
           <td>Kooiboy</td>
           <td><a href="{{ site.schwinn_570u_url }}">Schwinn 570u</a> and thus Schwinn 170 and 270</td>
         </tr>

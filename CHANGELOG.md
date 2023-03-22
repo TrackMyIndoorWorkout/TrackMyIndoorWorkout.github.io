@@ -4,6 +4,9 @@ title: ChangeLog
 short_title: Changes
 permalink: /changelog/
 ---
+## 1.1.140
+* Hotfix app hanging of the time zone migration when custom time zone is selected
+
 ## 1.1.139
 * Adjusting some track elevations, naming, and one water track location
 * Simplify closest time zone's track search

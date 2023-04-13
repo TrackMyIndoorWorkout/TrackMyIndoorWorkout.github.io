@@ -4,6 +4,12 @@ title: ChangeLog
 short_title: Changes
 permalink: /changelog/
 ---
+## 1.1.144
+* Kayak First data acquisition changes, timing adjustments
+* Display hourglass on the Recording screen now that attach, discovery and actions happen
+  right after connection and this can take seconds
+* Upgrading a few Flutter plugins
+
 ## 1.1.143
 * Correct Kayak First pace display
 * Correct Kayak First recording when Instant Measurement Start is on

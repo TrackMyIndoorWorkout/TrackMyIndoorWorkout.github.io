@@ -16,7 +16,11 @@ nav ul form {
   padding: 5px 15px;
 }
 
-img.svg-logo {
+.card-content > h4 > a > img.responsive-img {
+  max-height: 156px;
+}
+
+.card-content > h4 > a > img.svg-logo {
   max-height: 76px;
 }
 

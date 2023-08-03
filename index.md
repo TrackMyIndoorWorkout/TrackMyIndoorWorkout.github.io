@@ -37,4 +37,5 @@ layout: home
 * [Merach MR-667 Spin Bike]({{ site.merach_mr_667_url }})
 * [Old Danube kayak/canoe ergometer]({{ site.old_danube_url }})
 * [Rogue Echo Bike V3.0]({{ https://www.roguefitness.com/rogue-echo-bike?sku=IP0895 }})
+* [OVICX Q200B]({{ https://www.ovicx.com/products/ovicx-q200-magnetic-stationary-bike }})
 * Most Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

@@ -92,7 +92,10 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Máté Varga</td>
-          <td><a href="{{ site.kayak_first_url }}">KayakFirst</a> kayak and canoe ergometer, and Concept2 SkiErg debug opportunities at UTE kayak club</td>
+          <td>
+            <a href="{{ site.kayak_first_url }}">KayakFirst</a> kayak and canoe ergometer,
+            and <a href="{{ site.concept2_skierg_url }}">Concept2 SkiErg</a> debug opportunities at UTE kayak club
+          </td>
         </tr>
         <tr>
           <td>Naomi R Hendrix / Chef Naomi - <a href="https://raawfresno.com">Raw Fresno</a></td>

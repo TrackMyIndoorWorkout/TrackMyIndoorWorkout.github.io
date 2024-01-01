@@ -58,6 +58,9 @@ garmin_csc_url: https://www.garmin.com/en-US/p/641221
 xoss_vortex_url: https://xoss.co/products/xoss-bike-cadence-and-speed-sensor-vortex-wireless-ipx7-waterproof-300-hours-dual-modes-bike-sensor-ant-bluetooth-4-0-compatible-for-cycling-computer
 merach_mr_667_url: https://merachfitness.com/products/mr-667-spin-bike
 old_danube_url: https://olddanube.com/shop/
+concept2_rowerg_url: https://www.concept2.com/indoor-rowers/concept2-rowerg
+concept2_skierg_url: https://www.concept2.com/skierg/concept2-skierg
+concept2_bikeerg_url: https://www.concept2.com/bikeerg/concept2-bikeerg
 
 exclude:
   - "LICENSE"

@@ -24,7 +24,7 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Attila Tóth</td>
-          <td><a href="{{ site.kayakpro_site_url }}">KayakPro kayak ergometer</a></td>
+          <td><a href="{{ site.kayakpro_site_url }}">KayakPro and KayakFirst kayak ergometers</a></td>
         </tr>
         <tr>
           <td>Brian Colligan</td>

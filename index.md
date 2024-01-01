@@ -38,4 +38,7 @@ layout: home
 * [Old Danube kayak/canoe ergometer]({{ site.old_danube_url }})
 * [Rogue Echo Bike V3.0]({{ https://www.roguefitness.com/rogue-echo-bike?sku=IP0895 }})
 * [OVICX Q200B]({{ https://www.ovicx.com/products/ovicx-q200-magnetic-stationary-bike }})
+* [Concept2 Row ergometers]({{ site.concept2_rowerg_url }}) FTMS priority, but Concept2 specific protocol is supported as well
+* [Concept2 Ski ergometers]({{ site.concept2_skierg_url }}), Concept2 specific protocol
+* [Concept2 Bike ergometers]({{ site.concept2_bikeerg_url }}), Concept2 specific protocol
 * Most Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

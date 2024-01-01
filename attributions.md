@@ -53,7 +53,10 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Firdhaus Nawawi</td>
-          <td><a href="{{ site.yesoul_s3_url }}">Yesoul S3</a> (with Huawei console) and <a href="{{ site.magene_csc_url }}">Magene Cycling Speed and Cadence Sensors</a></td>
+          <td>
+            <a href="{{ site.yesoul_s3_url }}">Yesoul S3</a> (with Huawei console) and
+            <a href="{{ site.magene_csc_url }}">Magene Cycling Speed and Cadence Sensors</a>
+          </td>
         </tr>
         <tr>
           <td>Gergő Doma</td>
@@ -81,7 +84,11 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Kurt Ramsey</td>
-          <td><a href="{{ site.stages_sb20_url }}">Stages SB20</a>, <a href="{{ site.lifepro_flexstride_pro_url }}">LifePro FlexStride Pro</a>, <a href="{{ site.schwinn_270_url }}">Schwinn 270</a></td>
+          <td>
+            <a href="{{ site.stages_sb20_url }}">Stages SB20</a>,
+            <a href="{{ site.lifepro_flexstride_pro_url }}">LifePro FlexStride Pro</a>,
+            <a href="{{ site.schwinn_270_url }}">Schwinn 270</a>
+          </td>
         </tr>
         <tr>
           <td>Máté Varga</td>
@@ -117,11 +124,17 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Seungki (Eric) Cho</td>
-          <td><a href="{{ site.wahoo_kickr_url }}">Wahoo KICKR v5</a> <a href="https://developer.samsung.com/conference/sdc22">@ SDC22</a></td>
+          <td>
+            <a href="{{ site.wahoo_kickr_url }}">Wahoo KICKR v5</a>
+            <a href="https://developer.samsung.com/conference/sdc22">@ SDC22</a>
+          </td>
         </tr>
         <tr>
           <td>Viktor Glatz</td>
-          <td><a href="{{ site.old_danube_url }}">Old Danube kayak/canoe ergometer</a> and <a href="{{ site.garmin_csc_url }}">Garmin Cycling Speed and Cadence Sensors</a></td>
+          <td>
+            <a href="{{ site.old_danube_url }}">Old Danube kayak/canoe ergometer</a> and
+            <a href="{{ site.garmin_csc_url }}">Garmin Cycling Speed and Cadence Sensors</a>
+          </td>
         </tr>
       </table>
     </div>

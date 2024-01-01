@@ -51,6 +51,10 @@ permalink: /attributions/
           <td><a href="{{ site.yesoul_s3_url }}">Yesoul S3</a> (with Huawei console) and <a href="{{ site.magene_csc_url }}">Magene Cycling Speed and Cadence Sensors</a></td>
         </tr>
         <tr>
+          <td>Gergő Doma</td>
+          <td><a href="{{ site.kayak_first_url }}">KayakFirst</a> ergometer debug opportunities at UTE kayak club</td>
+        </tr>
+        <tr>
           <td>Géza Lévai</td>
           <td><a href="{{ site.schwinn_510u_url }}">Schwinn 510u</a></td>
         </tr>

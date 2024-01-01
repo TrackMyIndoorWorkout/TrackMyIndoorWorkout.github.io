@@ -68,7 +68,7 @@ permalink: /attributions/
         </tr>
         <tr>
           <td>Naomi R Hendrix / Chef Naomi - <a href="https://raawfresno.com">Raw Fresno</a></td>
-          <td><a href="{{ site.concept2_rowerg_url }}">Concept2 Row Erg support</td>
+          <td><a href="{{ site.concept2_rowerg_url }}">Concept2 Row Ergometer debug opportunities</td>
         </tr>
         <tr>
           <td>roeland4</td>

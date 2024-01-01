@@ -15,6 +15,10 @@ permalink: /attributions/
     <div class="col s12">
       <table border="0">
         <tr>
+          <td>Ákos Bencsura</td>
+          <td><a href="{{ site.kayak_first_url }}">KayakFirst</a> kayak and canoe ergometers' communication protocol, developer console</td>
+        </tr>
+        <tr>
           <td>Angus Black</td>
           <td><a href="{{ site.xoss_vortex_url }}">Xoss Vortex Speed and Cadence Sensors</a></td>
         </tr>
@@ -57,6 +61,10 @@ permalink: /attributions/
         <tr>
           <td>Jean Caziewski</td>
           <td><a href="{{ site.merach_mr_667_url }}">Merach MR-667 Spin Bike</a></td>
+        </tr>
+        <tr>
+          <td>József Weimper</td>
+          <td><a href="{{ site.kayak_first_url }}">KayakFirst</a> kayak and canoe ergometers</td>
         </tr>
         <tr>
           <td>Kooiboy</td>

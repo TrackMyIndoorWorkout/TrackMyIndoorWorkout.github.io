@@ -79,6 +79,10 @@ permalink: /attributions/
           <td><a href="{{ site.stages_sb20_url }}">Stages SB20</a>, <a href="{{ site.lifepro_flexstride_pro_url }}">LifePro FlexStride Pro</a>, <a href="{{ site.schwinn_270_url }}">Schwinn 270</a></td>
         </tr>
         <tr>
+          <td>Máté Varga</td>
+          <td><a href="{{ site.kayak_first_url }}">KayakFirst</a> kayak and canoe ergometer, and Concept2 SkiErg debug opportunities at UTE kayak club</td>
+        </tr>
+        <tr>
           <td>Naomi R Hendrix / Chef Naomi - <a href="https://raawfresno.com">Raw Fresno</a></td>
           <td><a href="{{ site.concept2_rowerg_url }}">Concept2 Row Ergometer debug opportunities</td>
         </tr>

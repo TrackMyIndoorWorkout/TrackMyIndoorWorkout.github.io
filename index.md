@@ -41,5 +41,5 @@ layout: home
 * [Concept2 Row ergometers]({{ site.concept2_rowerg_url }}) FTMS priority, but Concept2 specific protocol is supported as well
 * [Concept2 Ski ergometers]({{ site.concept2_skierg_url }}), Concept2 specific protocol
 * [Concept2 Bike ergometers]({{ site.concept2_bikeerg_url }}), Concept2 specific protocol
-* [KayakFirst kayak and canoe ergometers]({{ site.kayak_first_url }})
+* [KayakFirst kayak and canoe ergometers]({{ site.kayak_first_url }}) (blue color models)
 * Most Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

@@ -48,6 +48,10 @@ img.limit-height-lg {
 
 .card .card-content {
   min-height: 175px;
+  max-height: 127px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .card-action {

@@ -62,6 +62,8 @@ concept2_rowerg_url: https://www.concept2.com/indoor-rowers/concept2-rowerg
 concept2_skierg_url: https://www.concept2.com/skierg/concept2-skierg
 concept2_bikeerg_url: https://www.concept2.com/bikeerg/concept2-bikeerg
 kayak_first_url: https://kayakfirst.com/en/paddle-machine-ergometer-simulator-pricing-table-shipping-cost-gb
+cardiostrong_ib50_url: https://www.cardiostrong.com/cardiostrong-incline-exercise-bike-ib50-cst-ib50
+spirit_xbr55_url: https://www.spiritfitness.com/residential/xbr55
 
 exclude:
   - "LICENSE"

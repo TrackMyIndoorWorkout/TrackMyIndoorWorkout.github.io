@@ -42,4 +42,7 @@ layout: home
 * [Concept2 Ski ergometers]({{ site.concept2_skierg_url }}), Concept2 specific protocol
 * [Concept2 Bike ergometers]({{ site.concept2_bikeerg_url }}), Concept2 specific protocol
 * [KayakFirst kayak and canoe ergometers]({{ site.kayak_first_url }}) (blue color models)
+* [FitSwitch](https://fitswitch.io/) is a device for Peloton to make it Zwift, Rouvy, Kinomap, essentially FTMS compatible
+* [Cardiostrong IB50 incline exercise bike]({{ site.cardiostrong_ib50_url }})
+* [Spirit XBR55 recumbent bike]({{ site.spirit_xbr55_url }})
 * Most Bluetooth Low Energy (BLE) Fitness Machine (FTMS) standard compatible Indoor Bikes, Treadmills, or Rowers

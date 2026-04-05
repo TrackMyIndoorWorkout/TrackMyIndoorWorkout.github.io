@@ -48,6 +48,14 @@ permalink: /attributions/
           <td>Matrix treadmill and recumbent stationary bike</td>
         </tr>
         <tr>
+          <td><a href="https://github.com/DXCanas">David C</a></td>
+          <td>Live display of Treadmill Inclination, Rowing Machine Stroke Rate Spikes, Refactor to handle sentinel values as per the FTMS standard specification, Allow scaling of graph X axis</td>
+        </tr>
+        <tr>
+          <td>David Offutt</td>
+          <td><a href="{{ site.spirit_xbr55_url }}">Spirit XBR55</a> recumbent bike doesn't follow the FTMS spec to the tee: the feature report has truncated bytes (two bytes instead of 4 for the flags)</td>
+        </tr>
+        <tr>
           <td>Denise Hadibeere</td>
           <td><a href="{{ site.yesoul_s3_url }}">Yesoul S3</a> + HRM</td>
         </tr>
@@ -133,6 +141,10 @@ permalink: /attributions/
           </td>
         </tr>
         <tr>
+          <td>Thomas Hendorfer</td>
+          <td><a href="{{ site.cardiostrong_ib50_url }}">Cardiostrong IB50 indoor bike</a></td>
+        </tr>
+        <tr>
           <td>Viktor Glatz</td>
           <td>
             <a href="{{ site.old_danube_url }}">Old Danube kayak/canoe ergometer</a> and
@@ -151,10 +163,12 @@ permalink: /attributions/
     </div>
     <div class="col s12">
       <ul>
+      <li>Ahmed Torbeih</li>
         <li>AJ</li>
         <li>Ana Isabel Barrantes</li>
         <li>Andrew Ziem</li>
         <li>Bill Schatzow</li>
+        <li><a href="https://github.com/casten">Casten Riepling</a></li>
         <li>Cheryl Crouse</li>
         <li>Christian Derungs</li>
         <li>Christian Fees</li>
@@ -175,6 +189,7 @@ permalink: /attributions/
         <li>Oliver Elsner</li>
         <li>Peter Bossy</li>
         <li>Peter Rice</li>
+        <li><a href="https://github.com/purevector">purevector</a></li>
         <li>u/Regina0403</li>
         <li>René Grassegger</li>
         <li>Rob Wolff</li>
